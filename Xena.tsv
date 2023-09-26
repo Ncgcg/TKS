@@ -1,0 +1,1149 @@
+sample	samples	sample_type	histological_type	PR_Status_nature2012	ER_Status_nature2012	HER2_Final_Status_nature2012	Node_nature2012	Tumor_nature2012	BIN1	AMPH	WASL	WIPF1	WIPF3	SH3PXD2A	SH3PXD2B
+TCGA-BH-A1FC-11	TCGA-BH-A1FC-11	Solid Tissue Normal	Medullary Carcinoma						9.604	5.577	10.75	10.51	4.229	10.8	10.59
+TCGA-BH-A209-11	TCGA-BH-A209-11	Solid Tissue Normal	Medullary Carcinoma						9.387	5.914	10.92	10.97	4.81	10.97	10.67
+TCGA-BH-A18S-11	TCGA-BH-A18S-11	Solid Tissue Normal	Mucinous Carcinoma						9.465	4.785	10.73	10.25	4.881	10.65	10.77
+TCGA-E9-A1RC-11	TCGA-E9-A1RC-11	Solid Tissue Normal	Mixed Histology (please specify)						10.71	6.141	10.52	10.81	3.284	11.36	10.58
+TCGA-E9-A1NA-11	TCGA-E9-A1NA-11	Solid Tissue Normal	Mixed Histology (please specify)						10.64	6.106	10.52	10.41	5.508	11.12	10.83
+TCGA-BH-A1EO-11	TCGA-BH-A1EO-11	Solid Tissue Normal	Mixed Histology (please specify)						10.53	8.764	10.63	11.58	1.657	10.89	10.77
+TCGA-BH-A0BA-11	TCGA-BH-A0BA-11	Solid Tissue Normal	Mixed Histology (please specify)						9.678	6.252	10.82	10.75	4.248	11.26	11.45
+TCGA-E9-A1N5-11	TCGA-E9-A1N5-11	Solid Tissue Normal	Mixed Histology (please specify)						9.549	7.167	10.87	10.53	4.536	12.66	12.59
+TCGA-E9-A1N9-11	TCGA-E9-A1N9-11	Solid Tissue Normal	Mixed Histology (please specify)						9.515	6.402	10.79	10.02	5.125	10.89	10.75
+TCGA-E9-A1RI-11	TCGA-E9-A1RI-11	Solid Tissue Normal	Mixed Histology (please specify)						9.507	5.081	10.89	11.26	2.591	10.59	10.2
+TCGA-BH-A0C3-11	TCGA-BH-A0C3-11	Solid Tissue Normal	Mixed Histology (please specify)						8.573	5.797	10.8	10.31	4.988	11.42	11.17
+TCGA-E9-A1N4-11	TCGA-E9-A1N4-11	Solid Tissue Normal	Mixed Histology (please specify)						8.46	9.499	11.17	9.907	5.111	11	10.59
+TCGA-BH-A0DL-11	TCGA-BH-A0DL-11	Solid Tissue Normal	Other, specify						9.547	6.79	10.82	10.74	4.812	11.35	11.21
+TCGA-BH-A1FR-11	TCGA-BH-A1FR-11	Solid Tissue Normal	Other, specify						9.297	6.958	10.89	11	4.969	11.41	10.84
+TCGA-GI-A2C8-11	TCGA-GI-A2C8-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						14.84	7.193	10.95	9.328	7.881	11.57	8.774
+TCGA-BH-A0H9-11	TCGA-BH-A0H9-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						11.49	6.758	10.16	10.04	4.102	10.57	9.859
+TCGA-E2-A1BC-11	TCGA-E2-A1BC-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						11.15	7.859	10.59	10.37	1.279	10.81	9.697
+TCGA-E9-A1ND-11	TCGA-E9-A1ND-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						11	5.965	9.984	11.01	4.762	10.78	11.02
+TCGA-A7-A0D9-11	TCGA-A7-A0D9-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.93	7.688	10.43	10.91	2.343	10.95	10.36
+TCGA-A7-A0DB-11	TCGA-A7-A0DB-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.85	7.193	10.35	11.3	2.033	11.55	11.54
+TCGA-E9-A1RH-11	TCGA-E9-A1RH-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.84	7.955	10.66	10.96	3.806	11.06	10.42
+TCGA-E2-A1LS-11	TCGA-E2-A1LS-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.77	6.538	10.91	10.62	3.984	10.82	9.662
+TCGA-BH-A0B8-11	TCGA-BH-A0B8-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.73	5.41	10.68	10.66	4.024	11.21	10.34
+TCGA-BH-A1F2-11	TCGA-BH-A1F2-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.64	5.851	10.9	10.81	4.576	11.6	11.35
+TCGA-E2-A15K-11	TCGA-E2-A15K-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.6	7.044	10.13	10.36	4.078	10.76	10.63
+TCGA-E2-A158-11	TCGA-E2-A158-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.59	7.47	10.78	10.87	6.004	11.53	10.26
+TCGA-E2-A1IG-11	TCGA-E2-A1IG-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.53	7.519	10.74	10.33	5.288	10.98	11.14
+TCGA-A7-A0CH-11	TCGA-A7-A0CH-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.53	7.01	10.3	10.48	4.308	10.4	10.5
+TCGA-BH-A0DD-11	TCGA-BH-A0DD-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.51	9.874	10.55	10.84	1.664	11.47	10.37
+TCGA-BH-A18L-11	TCGA-BH-A18L-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.5	6.253	10.72	10.45	4.967	10.92	10.61
+TCGA-BH-A204-11	TCGA-BH-A204-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.48	7.05	10.86	11.08	4.527	11.54	11.17
+TCGA-BH-A18P-11	TCGA-BH-A18P-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.45	5.504	10.79	9.944	4.305	11.08	10.05
+TCGA-BH-A0DH-11	TCGA-BH-A0DH-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.31	5.56	10.03	9.791	4.153	10.87	10.73
+TCGA-BH-A1F0-11	TCGA-BH-A1F0-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.23	6.101	11.06	10.31	5.177	10.67	10.9
+TCGA-BH-A1EN-11	TCGA-BH-A1EN-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.22	7.174	10.7	10.77	4.004	11.4	11.01
+TCGA-BH-A18V-11	TCGA-BH-A18V-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.22	4.992	10.35	9.874	3.726	10.21	10.67
+TCGA-E9-A1NG-11	TCGA-E9-A1NG-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.18	7.654	10.85	10.95	5.014	11.07	10.76
+TCGA-BH-A1F8-11	TCGA-BH-A1F8-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.14	6.161	11.18	10.45	4.616	10.95	10.76
+TCGA-BH-A0HK-11	TCGA-BH-A0HK-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.02	6.508	10.8	10.37	6.762	11.11	11.15
+TCGA-A7-A0CE-11	TCGA-A7-A0CE-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.02	6.39	10.39	9.819	5.476	10.74	11.24
+TCGA-E9-A1RD-11	TCGA-E9-A1RD-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						10.01	8.826	10.64	10.98	4.622	11.17	10.35
+TCGA-BH-A1FH-11	TCGA-BH-A1FH-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.949	7.266	10.95	11.02	5.491	11.33	10.98
+TCGA-A7-A13F-11	TCGA-A7-A13F-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.944	6.446	10.66	10.67	5.153	10.92	10.67
+TCGA-E9-A1R7-11	TCGA-E9-A1R7-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.871	7.712	10.78	11.36	4.488	11.16	10.66
+TCGA-E2-A15I-11	TCGA-E2-A15I-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.852	8.61	11.02	10.75	4.255	11.24	10.25
+TCGA-GI-A2C9-11	TCGA-GI-A2C9-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.824	6.652	10.97	10.81	5.825	11.18	11.29
+TCGA-BH-A0AY-11	TCGA-BH-A0AY-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.773	6.43	10.94	10.6	4.688	10.87	10.52
+TCGA-BH-A18N-11	TCGA-BH-A18N-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.753	6.165	10.99	10.24	5.185	11.08	10.73
+TCGA-BH-A0BZ-11	TCGA-BH-A0BZ-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.72	6.622	10.64	10.69	4.525	11.3	10.6
+TCGA-E9-A1RB-11	TCGA-E9-A1RB-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.718	9.579	10.75	10.99	4.134	11.32	10.63
+TCGA-BH-A18R-11	TCGA-BH-A18R-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.704	7.147	10.86	10.52	4.3	11.46	11.37
+TCGA-E9-A1RF-11	TCGA-E9-A1RF-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.694	9.882	10.88	11.2	1.769	11.02	10.63
+TCGA-BH-A18M-11	TCGA-BH-A18M-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.632	6.842	10.85	10.72	4.58	11.5	11.92
+TCGA-A7-A0DC-11	TCGA-A7-A0DC-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.627	5.091	10.91	10.25	5.587	11.12	11.11
+TCGA-BH-A0H7-11	TCGA-BH-A0H7-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.625	7.045	10.43	9.423	4.686	10.57	10.98
+TCGA-BH-A0DZ-11	TCGA-BH-A0DZ-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.519	6.977	10.36	9.223	4.809	10.59	11.1
+TCGA-BH-A18J-11	TCGA-BH-A18J-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.509	6.801	10.51	10.12	5.565	11.02	10.81
+TCGA-BH-A1FD-11	TCGA-BH-A1FD-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.447	6.059	11.11	10.44	4.808	10.5	10.67
+TCGA-BH-A0E0-11	TCGA-BH-A0E0-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.425	11.44	10.28	8.941	4.262	10.27	10.88
+TCGA-BH-A0BW-11	TCGA-BH-A0BW-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.422	5.376	10.47	11.99	5.572	11.4	11.2
+TCGA-BH-A0BV-11	TCGA-BH-A0BV-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.408	5.483	11.05	10.31	4.981	11.85	12.03
+TCGA-BH-A0BC-11	TCGA-BH-A0BC-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.394	5.57	10.72	10.02	6.049	10.95	11.56
+TCGA-BH-A18K-11	TCGA-BH-A18K-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.343	8.714	10.94	9.844	5.616	11.27	10.91
+TCGA-BH-A0B3-11	TCGA-BH-A0B3-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.319	5.815	10.94	10.49	4.965	10.98	10.53
+TCGA-AC-A23H-11	TCGA-AC-A23H-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.311	8.682	10.99	10.8	4.957	11.39	11.48
+TCGA-BH-A1FM-11	TCGA-BH-A1FM-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.278	6.948	11.12	10.48	4.965	11.3	11
+TCGA-BH-A18Q-11	TCGA-BH-A18Q-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.278	6.47	11.09	10.49	5.607	11.37	10.94
+TCGA-BH-A1FU-11	TCGA-BH-A1FU-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.221	7.478	10.82	10.35	5.217	11.28	11.27
+TCGA-BH-A0DQ-11	TCGA-BH-A0DQ-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.189	6.736	10.92	10.33	4.58	11.53	11.28
+TCGA-BH-A203-11	TCGA-BH-A203-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.165	5.776	11.22	10.19	4.896	11.25	10.27
+TCGA-BH-A0BJ-11	TCGA-BH-A0BJ-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.156	6.163	10.75	10.1	5.3	11.49	11.9
+TCGA-BH-A1ET-11	TCGA-BH-A1ET-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.141	6.182	11.12	10.68	4.627	11.23	11.35
+TCGA-BH-A1EV-11	TCGA-BH-A1EV-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.075	6.632	11.23	10.92	4.502	11.27	11.2
+TCGA-BH-A0H5-11	TCGA-BH-A0H5-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.064	6.04	11.05	9.724	5.097	10.89	10.92
+TCGA-BH-A0DO-11	TCGA-BH-A0DO-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.03	5.561	11.12	9.997	5.452	11.08	10.77
+TCGA-BH-A18U-11	TCGA-BH-A18U-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						9.015	5.108	10.87	9.998	5.027	11.11	10.97
+TCGA-BH-A1FB-11	TCGA-BH-A1FB-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.98	5.447	10.96	10.58	5.085	10.67	10.8
+TCGA-E2-A1LH-11	TCGA-E2-A1LH-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.926	4.696	10.83	9.58	4.985	10.33	10.31
+TCGA-BH-A0BS-11	TCGA-BH-A0BS-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.924	4.551	10.8	9.534	4.878	10.42	10.33
+TCGA-E2-A153-11	TCGA-E2-A153-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.918	5.308	10.8	10.17	4.773	10.62	11.55
+TCGA-BH-A208-11	TCGA-BH-A208-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.862	6.062	11.05	10.04	4.138	11.23	11.5
+TCGA-BH-A0BQ-11	TCGA-BH-A0BQ-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.826	7.385	10.97	10.48	6.037	11.33	11.88
+TCGA-BH-A0C0-11	TCGA-BH-A0C0-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.809	5.728	10.91	9.805	5.47	11.38	10.64
+TCGA-BH-A0AZ-11	TCGA-BH-A0AZ-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.802	7.107	11.25	10.55	5.323	11.66	11.85
+TCGA-BH-A0DT-11	TCGA-BH-A0DT-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.77	5.744	11.02	9.624	5.201	11.2	11.29
+TCGA-BH-A1F6-11	TCGA-BH-A1F6-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.736	6.46	11.18	11.07	5.462	11.38	11.06
+TCGA-BH-A1EU-11	TCGA-BH-A1EU-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.701	6.495	11.26	10.53	4.811	11.18	10.91
+TCGA-E2-A1LB-11	TCGA-E2-A1LB-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.68	5.526	10.99	9.068	4.556	11.01	11.04
+TCGA-BH-A0DK-11	TCGA-BH-A0DK-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.663	6.927	11.01	9.153	5.022	10.58	11.06
+TCGA-BH-A0AU-11	TCGA-BH-A0AU-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.636	5.764	10.75	9.637	4.747	11.11	10.56
+TCGA-BH-A1FN-11	TCGA-BH-A1FN-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.574	7.872	11.12	11.26	4.589	11.21	11.64
+TCGA-BH-A0DV-11	TCGA-BH-A0DV-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.526	5.655	11.16	9.434	6.044	10.96	10.91
+TCGA-BH-A0BM-11	TCGA-BH-A0BM-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.481	4.785	10.83	9.502	5.54	11.09	10.72
+TCGA-BH-A0B7-11	TCGA-BH-A0B7-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.423	5.71	10.99	10.07	4.497	11.06	11.06
+TCGA-BH-A0E1-11	TCGA-BH-A0E1-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.395	5.346	10.73	9.158	4.527	10.45	10.77
+TCGA-BH-A0DG-11	TCGA-BH-A0DG-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.378	5.87	11.19	10.3	4.707	11.32	10.93
+TCGA-BH-A0HA-11	TCGA-BH-A0HA-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.282	4.383	11.05	9.697	5.165	11.11	10.57
+TCGA-BH-A0BT-11	TCGA-BH-A0BT-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						8.087	4.823	10.99	9.176	5.404	10.51	10.69
+TCGA-BH-A1FJ-11	TCGA-BH-A1FJ-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						7.964	6.666	11.55	10.95	5.384	10.84	10.98
+TCGA-BH-A1EW-11	TCGA-BH-A1EW-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						7.778	6.25	11.27	10.5	4.006	11.32	10.81
+TCGA-BH-A1FE-11	TCGA-BH-A1FE-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						7.642	5.536	11.46	10.72	5.208	11.03	10.77
+TCGA-BH-A1FG-11	TCGA-BH-A1FG-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma						7.537	6.976	11.89	10.4	4.044	9.919	10.29
+TCGA-A7-A4SD-11	TCGA-A7-A4SD-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-A7-A4SE-11	TCGA-A7-A4SE-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A0BF-11	TCGA-BH-A0BF-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A0BL-11	TCGA-BH-A0BL-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A0BO-11	TCGA-BH-A0BO-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A0DE-11	TCGA-BH-A0DE-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A0DI-11	TCGA-BH-A0DI-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A18F-11	TCGA-BH-A18F-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A1ES-11	TCGA-BH-A1ES-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A1EY-11	TCGA-BH-A1EY-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A1F5-11	TCGA-BH-A1F5-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-E2-A14Y-11	TCGA-E2-A14Y-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-E2-A1IF-11	TCGA-E2-A1IF-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-E2-A1II-11	TCGA-E2-A1II-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-E2-A1IO-11	TCGA-E2-A1IO-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-E2-A1LI-11	TCGA-E2-A1LI-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-E9-A1N8-11	TCGA-E9-A1N8-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-E9-A1NE-11	TCGA-E9-A1NE-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-E9-A1NH-11	TCGA-E9-A1NH-11	Solid Tissue Normal	Infiltrating Ductal Carcinoma												
+TCGA-BH-A0B5-11	TCGA-BH-A0B5-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma						11.04	6.454	10.69	10.65	4.162	11.15	9.516
+TCGA-AC-A2FB-11	TCGA-AC-A2FB-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma						10.05	6.933	10.84	10.95	5.025	10.96	11.01
+TCGA-E2-A15M-11	TCGA-E2-A15M-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma						9.369	6.675	11.14	10.73	5.292	11.13	11.54
+TCGA-AC-A2FF-11	TCGA-AC-A2FF-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma						9.367	9.544	10.71	10.88	4.95	11.92	12.24
+TCGA-BH-A0DP-11	TCGA-BH-A0DP-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma						8.346	5.285	10.8	9.408	5.559	10.68	10.64
+TCGA-A7-A4SA-11	TCGA-A7-A4SA-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma												
+TCGA-A7-A4SC-11	TCGA-A7-A4SC-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma												
+TCGA-AC-A2FG-11	TCGA-AC-A2FG-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma												
+TCGA-E2-A15L-11	TCGA-E2-A15L-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma												
+TCGA-E2-A1B5-11	TCGA-E2-A1B5-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma												
+TCGA-XX-A899-11	TCGA-XX-A899-11	Solid Tissue Normal	Infiltrating Lobular Carcinoma												
+TCGA-BH-A0B2-11	TCGA-BH-A0B2-11	Solid Tissue Normal							10.45	7.06	10.81	10.9	5.075	12.33	12.56
+TCGA-BH-A209-01	TCGA-BH-A209-01	Primary Tumor	Medullary Carcinoma	Positive	Positive				8.844	5.514	10.71	11.36	4.693	10.92	10.67
+TCGA-BH-A1FC-01	TCGA-BH-A1FC-01	Primary Tumor	Medullary Carcinoma	Negative	Negative	Negative	N1	T1	7.342	4.841	11	10.66	6.887	10.6	11.11
+TCGA-AR-A1AI-01	TCGA-AR-A1AI-01	Primary Tumor	Medullary Carcinoma	Negative	Negative	Negative	N0	T2	9.16	2.527	10.71	10.62	6.18	11.21	11.59
+TCGA-EW-A1P4-01	TCGA-EW-A1P4-01	Primary Tumor	Medullary Carcinoma	Negative	Negative	Negative	N0	T2	8.241	5.948	10.32	12.08	5.312	11.2	11.79
+TCGA-E9-A3QA-01	TCGA-E9-A3QA-01	Primary Tumor	Medullary Carcinoma						10.43	5.408	10.62	10.8	7.235	10.1	10.35
+TCGA-PL-A8LV-01	TCGA-PL-A8LV-01	Primary Tumor	Medullary Carcinoma						8.103	4.235	11.09	10.18	5.655	10.43	11.33
+TCGA-A7-A5ZV-01	TCGA-A7-A5ZV-01	Primary Tumor	Infiltrating Carcinoma NOS						9.952	2.264	10.53	9.587	3.839	11.53	9.414
+TCGA-A2-A4S1-01	TCGA-A2-A4S1-01	Primary Tumor	Metaplastic Carcinoma						11.09	6.835	10.04	11.68	1.434	11.92	12.62
+TCGA-AC-A2QH-01	TCGA-AC-A2QH-01	Primary Tumor	Metaplastic Carcinoma						9.997	9.023	9.165	11.28	4.128	11.86	12.32
+TCGA-AC-A7VC-01	TCGA-AC-A7VC-01	Primary Tumor	Metaplastic Carcinoma						9.922	9.366	9.977	10.84	2.976	12.29	12.49
+TCGA-BH-A6R9-01	TCGA-BH-A6R9-01	Primary Tumor	Metaplastic Carcinoma						9.611	8.817	10.65	11.74	2.454	12.95	12.76
+TCGA-C8-A8HP-01	TCGA-C8-A8HP-01	Primary Tumor	Metaplastic Carcinoma						9.592	4.554	10.24	10.48	3.905	9.827	9.592
+TCGA-E9-A5FL-01	TCGA-E9-A5FL-01	Primary Tumor	Metaplastic Carcinoma						9.349	5.29	10.1	9.648	1.555	12.02	11.05
+TCGA-A2-A4RX-01	TCGA-A2-A4RX-01	Primary Tumor	Metaplastic Carcinoma						8.462	7.507	10.19	10.77	3.2	12.48	12.8
+TCGA-AR-A2LR-01	TCGA-AR-A2LR-01	Primary Tumor	Metaplastic Carcinoma						8.087	7.627	10.1	10.5	5.067	11.86	11.58
+TCGA-D8-A27W-01	TCGA-D8-A27W-01	Primary Tumor	Mucinous Carcinoma	Positive	Positive	Positive	N0	T4	7.581	8.768	10.82	10.27	1.98	11.07	10.3
+TCGA-D8-A1XC-01	TCGA-D8-A1XC-01	Primary Tumor	Mucinous Carcinoma	Positive	Positive	Negative	N1	T4	8.132	2.036	11.04	8.104	3.696	11.06	9.609
+TCGA-C8-A12X-01	TCGA-C8-A12X-01	Primary Tumor	Mucinous Carcinoma	Positive	Positive	Negative	N1	T2	6.946	10.27	10.82	8.868	3.035	10.07	10.24
+TCGA-EW-A1OX-01	TCGA-EW-A1OX-01	Primary Tumor	Mucinous Carcinoma	Positive	Positive	Negative	N0	T2	7.74	3.042	11.38	8.234	5.679	9.012	9.511
+TCGA-D8-A1XV-01	TCGA-D8-A1XV-01	Primary Tumor	Mucinous Carcinoma	Positive	Positive	Negative	N0	T2	7.539	2.737	11.11	8.035	2.033	10.43	9.635
+TCGA-BH-A18S-01	TCGA-BH-A18S-01	Primary Tumor	Mucinous Carcinoma	Positive	Positive		N0	T1	8.859	3.476	11.25	8.694	5.293	9.841	9.207
+TCGA-A7-A3IY-01	TCGA-A7-A3IY-01	Primary Tumor	Mucinous Carcinoma						9.821	5.83	10.79	10.26	4.151	10.97	10.13
+TCGA-AC-A8OR-01	TCGA-AC-A8OR-01	Primary Tumor	Mucinous Carcinoma						9.698	1.987	10.91	8.465	3.233	10.55	9.622
+TCGA-A7-A3J0-01	TCGA-A7-A3J0-01	Primary Tumor	Mucinous Carcinoma						8.854	3.597	10.77	9.2	5.205	10.22	9.283
+TCGA-OL-A66H-01	TCGA-OL-A66H-01	Primary Tumor	Mucinous Carcinoma						8.655	3.884	10.74	10.12	4.274	9.983	9.045
+TCGA-E9-A5UO-01	TCGA-E9-A5UO-01	Primary Tumor	Mucinous Carcinoma						8.634	7.348	10.51	7.565	4.709	9.465	8.543
+TCGA-A2-A4S0-01	TCGA-A2-A4S0-01	Primary Tumor	Mucinous Carcinoma						8.539	3.964	11.05	8.597	1.851	10.51	10.31
+TCGA-C8-A8HQ-01	TCGA-C8-A8HQ-01	Primary Tumor	Mucinous Carcinoma						8.414	6.906	10.17	10.93	3.317	11.5	11.16
+TCGA-E9-A54X-01	TCGA-E9-A54X-01	Primary Tumor	Mucinous Carcinoma						8.053	6.791	11.42	6.69	2.314	9.582	8.709
+TCGA-A2-A3KD-01	TCGA-A2-A3KD-01	Primary Tumor	Mucinous Carcinoma						8.025	7.633	11.23	9.713	3.263	10.94	10.57
+TCGA-E9-A1NC-01	TCGA-E9-A1NC-01	Primary Tumor	Mixed Histology (please specify)	Positive	Negative	Negative	N1	T2	9.76	5.637	10.69	10.6	4.989	11.42	11.31
+TCGA-E9-A1N9-01	TCGA-E9-A1N9-01	Primary Tumor	Mixed Histology (please specify)	Positive	Negative	Negative	N0	T2	7.359	7.387	10.86	10.28	4.361	11.87	11.98
+TCGA-AR-A24O-01	TCGA-AR-A24O-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N2	T3	8.458	7.915	11.51	11.24	3.866	11.96	11.77
+TCGA-B6-A0RV-01	TCGA-B6-A0RV-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N2	T3	8.259	7.883	11.1	9.893	5.772	10.44	10.43
+TCGA-AR-A24M-01	TCGA-AR-A24M-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N2	T2	7.836	6.969	11.53	10.43	3.479	11.78	10.64
+TCGA-E9-A1N4-01	TCGA-E9-A1N4-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N2	T2	7.526	11.68	10.78	11.56	1.311	11.63	10.9
+TCGA-BH-A0BA-01	TCGA-BH-A0BA-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N3	T3	7.866	6.12	11.17	10.23	4.153	10.95	10.72
+TCGA-E9-A1N5-01	TCGA-E9-A1N5-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N1	T2	8.465	6.963	10.76	10.78	3.839	11.66	11.19
+TCGA-BH-A1EO-01	TCGA-BH-A1EO-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N1	T1	7.275	8.449	12	11.36	2.749	12.36	11.93
+TCGA-E2-A15G-01	TCGA-E2-A15G-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N0	T2	8.169	4.37	11.13	8.721	2.35	10.45	9.644
+TCGA-E9-A1NA-01	TCGA-E9-A1NA-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N0	T2	7.978	6.598	10.94	12.05	5.871	11.22	11.55
+TCGA-E9-A1NI-01	TCGA-E9-A1NI-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N0	T2	7.536	7.336	11.02	10.11	1.625	10.94	10.67
+TCGA-AR-A24X-01	TCGA-AR-A24X-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N0	T2	6.314	9.087	11.18	10.23	2.978	11.32	10.57
+TCGA-A8-A0AD-01	TCGA-A8-A0AD-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N0	T1	7.765	6.604	11.24	10.57	4.616	11.69	11.47
+TCGA-A1-A0SE-01	TCGA-A1-A0SE-01	Primary Tumor	Mixed Histology (please specify)	Positive	Positive	Negative	N0	T1	7.413	8.272	11	9.861	3.79	11.93	11.81
+TCGA-A7-A0CG-01	TCGA-A7-A0CG-01	Primary Tumor	Mixed Histology (please specify)	Negative	Positive	Negative	N0	T2	8.433	6.943	10.76	10.93	3.208	11.63	11.14
+TCGA-A8-A07S-01	TCGA-A8-A07S-01	Primary Tumor	Mixed Histology (please specify)	Negative	Positive	Negative	N0	T2	6.979	7.991	10.77	9.067	3.668	10.8	10.5
+TCGA-BH-A0C3-01	TCGA-BH-A0C3-01	Primary Tumor	Mixed Histology (please specify)	Negative	Positive	Negative	N0	T1	9.045	6.95	10.88	11.04	2.958	11.69	11.48
+TCGA-E9-A22B-01	TCGA-E9-A22B-01	Primary Tumor	Mixed Histology (please specify)	Negative	Positive	Negative	N0	T1	8.485	6.457	11.09	10.26	1.377	10.92	10.17
+TCGA-E9-A1N3-01	TCGA-E9-A1N3-01	Primary Tumor	Mixed Histology (please specify)			Negative	N2	T1	7.245	4.231	11.39	8.425	3.651	11.18	9.575
+TCGA-E9-A1RC-01	TCGA-E9-A1RC-01	Primary Tumor	Mixed Histology (please specify)			Negative	N3	T4	7.747	7.146	11.05	8.824	2.99	11.77	10.91
+TCGA-E9-A1RI-01	TCGA-E9-A1RI-01	Primary Tumor	Mixed Histology (please specify)				N2	T1	6.978	7.63	11.43	11.24	4.121	11.87	11.24
+TCGA-B6-A408-01	TCGA-B6-A408-01	Primary Tumor	Mixed Histology (please specify)						8.434	7.08	10.39	10.46	3.235	10.57	10.31
+TCGA-S3-A6ZG-01	TCGA-S3-A6ZG-01	Primary Tumor	Mixed Histology (please specify)						7.297	5.643	11.04	9.847	3.849	11.06	10.12
+TCGA-C8-A9FZ-01	TCGA-C8-A9FZ-01	Primary Tumor	Mixed Histology (please specify)												
+TCGA-D8-A1XS-01	TCGA-D8-A1XS-01	Primary Tumor	Other, specify	Positive	Positive	Positive	N3	T2	6.589	5.936	11.43	10.24	0.9083	11.4	10.43
+TCGA-D8-A1XJ-01	TCGA-D8-A1XJ-01	Primary Tumor	Other, specify	Positive	Positive	Positive	N1	T3	6.6	6.107	11.26	9.546	0.3807	10.63	10.28
+TCGA-AO-A0JG-01	TCGA-AO-A0JG-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N2	T2	8.091	5.533	11.2	10.89	3.007	10.8	11.05
+TCGA-BH-A1FR-01	TCGA-BH-A1FR-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N1	T4	9.275	4.43	11.02	9.907	3.557	10.69	9.21
+TCGA-C8-A133-01	TCGA-C8-A133-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N1	T3	8.692	3.785	10.62	7.568	3.359	8.166	8.916
+TCGA-AO-A0J7-01	TCGA-AO-A0J7-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N1	T2	7.987	4.558	10.25	8.628	2.825	11.04	10.54
+TCGA-A2-A1G0-01	TCGA-A2-A1G0-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N1	T2	7.774	6.926	11.64	10.74	3.304	11.38	11.25
+TCGA-A1-A0SG-01	TCGA-A1-A0SG-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N1	T2	7.602	6.744	10.92	10.19	1.816	11.35	10.89
+TCGA-AO-A0J3-01	TCGA-AO-A0J3-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N1	T2	5.569	8.786	10.94	8.056	4.576	10.51	9.811
+TCGA-EW-A1IX-01	TCGA-EW-A1IX-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N1	T1	8.809	9.089	11.3	10.5	4.034	12.47	11.61
+TCGA-B6-A0IM-01	TCGA-B6-A0IM-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T3	6.931	6.459	11.64	9.444	3.637	11.87	11.38
+TCGA-AO-A12H-01	TCGA-AO-A12H-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T2	9.117	7.226	10.8	9.317	2.487	10.98	9.432
+TCGA-B6-A0IC-01	TCGA-B6-A0IC-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T2	7.923	3.779	10.22	7.377	2.758	8.809	9.924
+TCGA-D8-A1X7-01	TCGA-D8-A1X7-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T2	7.67	4.429	11.45	9.663	3.116	11.9	10.11
+TCGA-AO-A12G-01	TCGA-AO-A12G-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T2	7.481	5.728	10.91	9.955	4.991	10.85	10.94
+TCGA-AO-A125-01	TCGA-AO-A125-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T2	7.294	5.935	11.6	7.507	4.544	9.927	9.015
+TCGA-B6-A0IA-01	TCGA-B6-A0IA-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T2	6.789	10.22	11.47	7.729	0.4679	9.035	9.16
+TCGA-D8-A1JT-01	TCGA-D8-A1JT-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T2	4.305	8.648	11.94	9.41	1.132	8.715	9.385
+TCGA-D8-A27E-01	TCGA-D8-A27E-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T1	8.367	3.085	11.15	9.224	4.28	10.22	9.652
+TCGA-B6-A0X0-01	TCGA-B6-A0X0-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T1	6.449	9.16	10.18	8.132	3.641	10.18	9.861
+TCGA-D8-A1JS-01	TCGA-D8-A1JS-01	Primary Tumor	Other, specify	Positive	Positive	Negative	N0	T1	6.266	5.666	10.39	7.071	0.7191	9.34	9.296
+TCGA-EW-A2FV-01	TCGA-EW-A2FV-01	Primary Tumor	Other, specify	Positive	Positive				8.749	11.99	10.4	10.48	3.563	10.36	10.12
+TCGA-EW-A2FW-01	TCGA-EW-A2FW-01	Primary Tumor	Other, specify	Positive	Positive				7.173	6.313	11.05	9.01	0.8026	11.11	9.764
+TCGA-A2-A04W-01	TCGA-A2-A04W-01	Primary Tumor	Other, specify	Negative	Negative	Positive	N1	T2	8.225	5.956	10.92	10.14	3.688	11.51	11.88
+TCGA-AO-A124-01	TCGA-AO-A124-01	Primary Tumor	Other, specify	Negative	Negative	Negative	N0	T2	9.496	4.889	10.22	9.257	6.665	10.07	12.31
+TCGA-A1-A0SK-01	TCGA-A1-A0SK-01	Primary Tumor	Other, specify	Negative	Negative	Negative	N0	T2	8.329	5.77	10.7	8.167	5.064	11.38	10.37
+TCGA-A7-A26G-01	TCGA-A7-A26G-01	Primary Tumor	Other, specify	Negative	Negative	Negative	N0	T2	7.204	6.539	11.38	11.62	4.68	12.67	11.65
+TCGA-AO-A03U-01	TCGA-AO-A03U-01	Primary Tumor	Other, specify	Negative	Negative	Negative	N0	T1	10.07	10.05	10.91	11.24	6.051	10.95	10.79
+TCGA-B6-A0RU-01	TCGA-B6-A0RU-01	Primary Tumor	Other, specify	Negative	Negative	Negative	N0	T1	8.792	4.978	10.41	9.361	3.451	10.82	11.81
+TCGA-A7-A26F-01	TCGA-A7-A26F-01	Primary Tumor	Other, specify	Negative	Negative	Negative	N0	T1	8.259	7.601	11.19	10.9	2.587	11.19	11.54
+TCGA-C8-A1HL-01	TCGA-C8-A1HL-01	Primary Tumor	Other, specify	Negative	Positive	Positive	N1	T3	6.53	5.703	11.25	10.52	3.364	11.53	10.66
+TCGA-AO-A0J5-01	TCGA-AO-A0J5-01	Primary Tumor	Other, specify	Negative	Positive	Negative	N1	T4	7.426	7.599	11.29	10.7	4.666	12.76	12.16
+TCGA-BH-A0DL-01	TCGA-BH-A0DL-01	Primary Tumor	Other, specify	Negative	Positive	Negative	N0	T2	7.556	3.562	11.17	10.4	2.137	11	11.16
+TCGA-A1-A0SB-01	TCGA-A1-A0SB-01	Primary Tumor	Other, specify	Negative	Positive	Negative	N0	T1	7.625	3.323	10.77	9.704	3.718	13.3	12.12
+TCGA-AC-A3YJ-01	TCGA-AC-A3YJ-01	Primary Tumor	Other, specify						10.32	8.668	10.17	8.991	4.644	9.594	8.768
+TCGA-OL-A97C-01	TCGA-OL-A97C-01	Primary Tumor	Other, specify						10.28	7.806	11	11.12	5.799	11.55	13.53
+TCGA-AR-A5QQ-01	TCGA-AR-A5QQ-01	Primary Tumor	Other, specify						10.23	6.383	10.33	10.61	5.772	11.81	10.58
+TCGA-E9-A5UP-01	TCGA-E9-A5UP-01	Primary Tumor	Other, specify						9.313	1.924	11.01	8.032	2.069	10.47	9.298
+TCGA-LD-A74U-01	TCGA-LD-A74U-01	Primary Tumor	Other, specify						8.926	8.207	10.48	10.37	4.719	11.46	11.29
+TCGA-LD-A7W6-01	TCGA-LD-A7W6-01	Primary Tumor	Other, specify						8.134	9.658	10.84	10.1	5.114	11.03	10.21
+TCGA-D8-A73X-01	TCGA-D8-A73X-01	Primary Tumor	Other, specify						7.593	6.939	10.79	10.13	3.292	11.52	10.31
+TCGA-5T-A9QA-01	TCGA-5T-A9QA-01	Primary Tumor	Other, specify						6.672	2.513	10.9	7.649	1.033	7.4	6.224
+TCGA-AC-A5EI-01	TCGA-AC-A5EI-01	Primary Tumor	Other, specify												
+TCGA-BH-A1F0-01	TCGA-BH-A1F0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Indeterminate	Negative	Negative	N1	T1	8.451	5.916	11.08	11.87	5.431	11	11.17
+TCGA-AN-A0FW-01	TCGA-AN-A0FW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Indeterminate	Positive	Negative	N2	T2	7.653	5.78	10.73	9.3	0.9529	10.2	10.44
+TCGA-B6-A0IO-01	TCGA-B6-A0IO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Indeterminate	Positive	Negative	N0	T2	6.391	4.719	11.09	8.965	3.205	9.472	10.85
+TCGA-B6-A0I9-01	TCGA-B6-A0I9-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Indeterminate	Positive	N0	T3	6.311	4.109	10.57	9.115	2.531	10.53	9.928
+TCGA-C8-A1HF-01	TCGA-C8-A1HF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Positive	N0	T2	7.56	6.503	9.986	11.08	2.281	10.17	9.709
+TCGA-A8-A07U-01	TCGA-A8-A07U-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N2	T2	9.732	5.492	10.51	11.23	6.52	10.99	11.01
+TCGA-AN-A0XS-01	TCGA-AN-A0XS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N2	T2	8.247	6.245	10.73	10.55	2.639	11.47	10.73
+TCGA-AN-A0XN-01	TCGA-AN-A0XN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N2	T2	8.134	8.011	11.26	11.52	3.519	12.65	11.74
+TCGA-BH-A1FJ-01	TCGA-BH-A1FJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N1	T3	6.146	5.36	11.4	8.752	5.322	10.37	9.726
+TCGA-A7-A13D-01	TCGA-A7-A13D-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N0	T2	9.664	3.849	10.89	9.054	6.78	11.41	11.54
+TCGA-D8-A1JK-01	TCGA-D8-A1JK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N0	T2	9.633	5.92	11.05	10.65	3.026	10.56	11.19
+TCGA-A2-A25F-01	TCGA-A2-A25F-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N0	T2	9.633	5.086	10.79	12.68	5.518	11.77	11.05
+TCGA-D8-A1XW-01	TCGA-D8-A1XW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N0	T2	9.542	4.404	11.17	10.95	6.264	11.27	10.03
+TCGA-A1-A0SH-01	TCGA-A1-A0SH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N0	T2	8.307	8.328	11.39	11.35	3.474	13.16	12.62
+TCGA-E2-A1II-01	TCGA-E2-A1II-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Negative	Negative	N0	T1	8.294	4.673	11.21	11.51	7.11	11.42	9.777
+TCGA-C8-A130-01	TCGA-C8-A130-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Equivocal	N2	T3	8.194	5.212	10.84	10.09	3.874	11.11	10.73
+TCGA-A8-A09E-01	TCGA-A8-A09E-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Equivocal	N1	T4	6.266	5.017	10.77	8.545	2.594	9.855	9.189
+TCGA-A8-A06U-01	TCGA-A8-A06U-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Equivocal	N1	T2	7.507	9.057	9.264	9.605	3.257	10.4	11.53
+TCGA-C8-A1HN-01	TCGA-C8-A1HN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Equivocal	N0	T2	6.805	4.598	11.56	9.78	1.509	10.26	9.683
+TCGA-E2-A105-01	TCGA-E2-A105-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Equivocal	N0	T2	6.387	9.057	10.87	9.102	0.972	10.52	10.33
+TCGA-AQ-A1H2-01	TCGA-AQ-A1H2-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N2	T2	9.547	9.572	10.13	9.209	5.851	9.513	9.406
+TCGA-BH-A0B4-01	TCGA-BH-A0B4-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N2	T2	8.681	9.327	10.82	10.51	0.7143	11.58	11.29
+TCGA-A8-A08P-01	TCGA-A8-A08P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N2	T2	8.249	5.103	10.41	10.92	2.207	10.44	10.31
+TCGA-D8-A27N-01	TCGA-D8-A27N-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N2	T2	8.027	6.12	10.65	10.81	4.691	11.3	10.6
+TCGA-AR-A254-01	TCGA-AR-A254-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N2	T2	7.773	9.713	11.39	11.22	1.733	10.91	11.07
+TCGA-AQ-A0Y5-01	TCGA-AQ-A0Y5-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N2	T2	7.063	7.155	11.38	10.59	1.27	11.89	11.09
+TCGA-AQ-A04H-01	TCGA-AQ-A04H-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N2	T2	6.312	5.293	11.37	9.194	1.304	11.03	10.57
+TCGA-BH-A18U-01	TCGA-BH-A18U-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N2	T2	6.286	6.246	10.94	9.942	2.803	9.829	9.04
+TCGA-A8-A099-01	TCGA-A8-A099-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N3	T4	8.621	4.759	9.953	9.408	5.088	10.93	9.537
+TCGA-D8-A1X5-01	TCGA-D8-A1X5-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N3	T2	8.251	4.171	10.9	10.29	5.076	11.32	10.04
+TCGA-A8-A09N-01	TCGA-A8-A09N-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N3	T2	7.149	6.026	10.8	9.491	2.423	10.47	10.17
+TCGA-A2-A0YG-01	TCGA-A2-A0YG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N3	T2	6.772	6.65	11.71	9.373	3.395	11.03	10.68
+TCGA-BH-A1F2-01	TCGA-BH-A1F2-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T4	6.374	6.995	12.09	10.76	1.651	12.02	11.16
+TCGA-BH-A18M-01	TCGA-BH-A18M-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T3	7.786	7.831	10.94	10.48	3.714	11.41	11.49
+TCGA-BH-A0B7-01	TCGA-BH-A0B7-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	8.837	6.256	10.21	11.07	3.46	11.47	12.64
+TCGA-C8-A132-01	TCGA-C8-A132-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	8.634	6.386	11.04	11.4	2.679	11.79	11.73
+TCGA-C8-A26W-01	TCGA-C8-A26W-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	8.276	5.586	10.84	10.88	4.451	11.31	10.7
+TCGA-D8-A1JB-01	TCGA-D8-A1JB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	7.949	5.135	11.36	11.29	3.714	10.75	10.45
+TCGA-AO-A0JM-01	TCGA-AO-A0JM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	7.946	8.036	10.59	10.35	2.421	10.99	10.87
+TCGA-E2-A1B1-01	TCGA-E2-A1B1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	7.681	7.288	11.38	11.35	3.473	11.22	11.32
+TCGA-A8-A097-01	TCGA-A8-A097-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	7.641	9.28	10.76	10.49	1.894	12.02	11.38
+TCGA-BH-A0DZ-01	TCGA-BH-A0DZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	7.332	6.379	10.45	10.6	2.134	11.28	11.68
+TCGA-AC-A23C-01	TCGA-AC-A23C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	7.304	6.335	11.07	10.46	2.929	11.08	10.74
+TCGA-AN-A0FT-01	TCGA-AN-A0FT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	7.069	4.524	10.01	9.989	2.112	10.81	9.757
+TCGA-D8-A140-01	TCGA-D8-A140-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	6.952	8.076	11.64	10.39	5.244	10.87	11.13
+TCGA-A8-A07P-01	TCGA-A8-A07P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	6.889	6.221	11.31	9.627	3.856	10.51	10.41
+TCGA-AO-A12C-01	TCGA-AO-A12C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	6.786	7.338	11.65	10.86	2.698	12.25	11.89
+TCGA-BH-A0DD-01	TCGA-BH-A0DD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	6.766	4.991	11.6	10.15	3.286	9.633	10.18
+TCGA-E2-A14V-01	TCGA-E2-A14V-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T2	6.154	5.029	11.58	9.119	3.307	10.66	10.65
+TCGA-AR-A0TX-01	TCGA-AR-A0TX-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T1	9.155	6.772	10.83	11.07	2.603	11.09	11.13
+TCGA-BH-A0C0-01	TCGA-BH-A0C0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T1	8.963	4.805	10.52	11.33	3.466	9.312	9.612
+TCGA-E2-A15H-01	TCGA-E2-A15H-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T1	7.838	8.542	10.92	9.389	2.329	10.89	10.97
+TCGA-EW-A1PD-01	TCGA-EW-A1PD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T1	7.836	5.746	11.26	10.26	2.518	12.38	11.55
+TCGA-A1-A0SN-01	TCGA-A1-A0SN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T1	7.663	8.335	11.99	10.76	3.272	11.75	11.27
+TCGA-E2-A15E-01	TCGA-E2-A15E-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T1	7.533	7.126	11.01	9.4	3.601	10.88	10.98
+TCGA-A8-A08S-01	TCGA-A8-A08S-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N1	T1	6.708	5.176	10.4	9.321	1.196	9.927	10.02
+TCGA-AN-A0AJ-01	TCGA-AN-A0AJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T3	7.837	7.015	10.18	10.7	4.907	9.819	9.766
+TCGA-A8-A08H-01	TCGA-A8-A08H-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	9.581	7.097	10.31	11.9	2.941	11.83	11.68
+TCGA-A8-A076-01	TCGA-A8-A076-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	9.038	6.081	10.61	10.38	1.135	11.34	10.74
+TCGA-E9-A22D-01	TCGA-E9-A22D-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	8.802	9	10.68	11.53	3.685	9.529	9.277
+TCGA-C8-A12T-01	TCGA-C8-A12T-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	8.257	7.266	10.65	10.51	1.474	11.39	11.16
+TCGA-AN-A0FD-01	TCGA-AN-A0FD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	7.64	5.808	11.35	10.58	4.238	10.82	10.9
+TCGA-A2-A04X-01	TCGA-A2-A04X-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	7.609	7.419	9.556	10.43	2.833	8.632	8.406
+TCGA-A8-A09I-01	TCGA-A8-A09I-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	7.375	5.767	10.74	10.15	3.38	11.02	9.602
+TCGA-E2-A14W-01	TCGA-E2-A14W-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	7.027	3.468	10.74	8.794	2.273	8.913	9.943
+TCGA-A8-A08G-01	TCGA-A8-A08G-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	6.991	6.676	11.23	10.05	2.068	10.78	10.78
+TCGA-D8-A1XY-01	TCGA-D8-A1XY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	6.756	8.374	11.09	10.32	1.728	10.86	10.59
+TCGA-A8-A07B-01	TCGA-A8-A07B-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	6.447	5.544	10.97	10.03	0	10.96	11.51
+TCGA-E2-A14Y-01	TCGA-E2-A14Y-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T2	5.556	7.582	10.82	8.576	0.613	10.31	11.98
+TCGA-AR-A1AX-01	TCGA-AR-A1AX-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T1	9.059	6.561	10.49	11.62	3.711	11.18	10.6
+TCGA-AR-A255-01	TCGA-AR-A255-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Positive	N0	T1	6.935	6.291	10.95	10.97	3.779	11.13	10.83
+TCGA-BH-A18J-01	TCGA-BH-A18J-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T4	8.028	8.032	10.96	10.03	5.424	10.61	11.44
+TCGA-A8-A09Q-01	TCGA-A8-A09Q-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T4	7.525	5.354	11.12	11.02	4.411	10.92	10.58
+TCGA-BH-A1F8-01	TCGA-BH-A1F8-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T4	5.491	5.616	12.03	9.839	2.7	10.2	10.61
+TCGA-A2-A0CL-01	TCGA-A2-A0CL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T3	9.103	5.359	10.36	12.36	4.05	11.12	11.17
+TCGA-C8-A26V-01	TCGA-C8-A26V-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T3	8.079	10.38	11.37	9.514	3.888	9.813	9.924
+TCGA-A2-A1FX-01	TCGA-A2-A1FX-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T3	7.917	5.706	11.13	10.27	3.232	10.48	10
+TCGA-D8-A1X6-01	TCGA-D8-A1X6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T3	7.895	4.332	11.01	9.89	1.339	9.902	9.581
+TCGA-AO-A03L-01	TCGA-AO-A03L-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T3	7.512	7.076	10.48	10.52	3.16	11.32	10.97
+TCGA-A8-A06Q-01	TCGA-A8-A06Q-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T3	5.276	4.109	11.31	7.883	2.82	10.03	10.1
+TCGA-E2-A108-01	TCGA-E2-A108-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	9.929	7.586	10.37	11.87	5.136	11.11	10.8
+TCGA-EW-A1IZ-01	TCGA-EW-A1IZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	9.044	3.599	10.52	11.43	4.428	9.955	9.601
+TCGA-BH-A0DV-01	TCGA-BH-A0DV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	8.907	8.338	10.94	10.98	3.586	12.27	11.87
+TCGA-BH-A0DS-01	TCGA-BH-A0DS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	8.878	6.2	11.79	10.28	2.412	10.7	10.62
+TCGA-AN-A0XW-01	TCGA-AN-A0XW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	8.213	7.822	11.23	11.72	4.716	10.81	11.02
+TCGA-E9-A22E-01	TCGA-E9-A22E-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	8.182	8.738	11.17	11.74	1.998	11.88	11.46
+TCGA-A2-A0YH-01	TCGA-A2-A0YH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	8.071	6.337	11.03	11.17	2.885	10.28	10.5
+TCGA-AR-A1AU-01	TCGA-AR-A1AU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	7.997	6.566	11.26	10.22	2.648	11.68	11.91
+TCGA-AN-A0XP-01	TCGA-AN-A0XP-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	7.944	6.513	11.34	9.438	1.961	10.48	10.05
+TCGA-A2-A0ET-01	TCGA-A2-A0ET-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	7.868	3.008	10.85	9.454	1.059	9.021	8.021
+TCGA-AN-A0XV-01	TCGA-AN-A0XV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	7.672	7.007	11.33	10.53	4.091	10.76	10.73
+TCGA-AN-A04A-01	TCGA-AN-A04A-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	7.522	7.264	10.78	10.64	3.48	11.74	11.72
+TCGA-D8-A1JC-01	TCGA-D8-A1JC-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	7.321	7.816	11.31	10.4	3.779	11.03	10.86
+TCGA-BH-A0E2-01	TCGA-BH-A0E2-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	7.079	6.341	11.21	10.33	2.049	10.75	10.5
+TCGA-C8-A1HI-01	TCGA-C8-A1HI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	6.873	5.557	11.31	9.77	3.537	10.35	9.938
+TCGA-AR-A0TZ-01	TCGA-AR-A0TZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	6.603	7.074	11.51	9.993	4.772	11.39	11.41
+TCGA-D8-A1Y3-01	TCGA-D8-A1Y3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	6.527	4.406	10.68	9.656	3.552	9.815	9.15
+TCGA-A8-A092-01	TCGA-A8-A092-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	6.237	8.269	10.98	9.658	1.746	10.23	10.04
+TCGA-AR-A0U2-01	TCGA-AR-A0U2-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T2	6.107	4.293	10.78	9.96	4.544	9.866	9.854
+TCGA-BH-A0H7-01	TCGA-BH-A0H7-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T1	9.146	8.099	10.59	9.956	1.21	11.59	12.13
+TCGA-AR-A24R-01	TCGA-AR-A24R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T1	8.56	12.2	11.53	10.14	0.864	11.04	10.71
+TCGA-E2-A1B4-01	TCGA-E2-A1B4-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T1	8.533	5.155	10.93	8.923	1.371	10.71	9.715
+TCGA-D8-A27L-01	TCGA-D8-A27L-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T1	7.993	7.586	11.14	10.77	3.313	12.23	11.43
+TCGA-D8-A1Y0-01	TCGA-D8-A1Y0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T1	7.816	9.122	11.09	10.81	3.5	11.56	10.97
+TCGA-A8-A06P-01	TCGA-A8-A06P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T1	7.542	6.66	10.95	10.38	2.312	12.19	11.56
+TCGA-D8-A1XD-01	TCGA-D8-A1XD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N2	T1	6.356	7.331	11.18	9.933	1.857	12.08	11.23
+TCGA-A8-A07E-01	TCGA-A8-A07E-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T4	8.486	7.723	10.6	10.74	3.346	12.26	12.27
+TCGA-A2-A0CS-01	TCGA-A2-A0CS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T4	8.186	6.304	11.07	10.11	4.349	9.92	10.79
+TCGA-A8-A08Z-01	TCGA-A8-A08Z-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T4	7.426	8.938	11.14	11	3.432	12.53	11.3
+TCGA-A8-A079-01	TCGA-A8-A079-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T4	7.233	7.687	9.856	8.941	3.566	10	11.03
+TCGA-B6-A0IB-01	TCGA-B6-A0IB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T3	6.971	6.179	11.05	7.518	5.738	9.174	10.08
+TCGA-C8-A1HO-01	TCGA-C8-A1HO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T3	6.933	7.022	11.34	9.794	3.123	10.33	10.4
+TCGA-BH-A0BC-01	TCGA-BH-A0BC-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T2	8.709	7.74	10.67	10.74	5.159	10.66	11.05
+TCGA-A8-A08F-01	TCGA-A8-A08F-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T2	8.467	6.036	10.45	10.52	4.269	11.34	11.33
+TCGA-A8-A09M-01	TCGA-A8-A09M-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T2	8.415	5.389	11.05	10.04	3.994	10.11	9.806
+TCGA-D8-A27R-01	TCGA-D8-A27R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T2	8.307	8.118	10.84	10.2	1.793	10.68	10.18
+TCGA-E2-A15A-01	TCGA-E2-A15A-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T2	7.856	6.646	11.27	10.45	2.687	10.61	10.02
+TCGA-AQ-A1H3-01	TCGA-AQ-A1H3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T2	7.814	6.734	11.68	10.55	4.993	11.29	10.94
+TCGA-A8-A08O-01	TCGA-A8-A08O-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N3	T2	7.385	7.509	11.4	9.889	3.459	11.81	11.06
+TCGA-B6-A0RO-01	TCGA-B6-A0RO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T4	8.756	7.344	11.5	8.52	3.032	9.806	9.957
+TCGA-AO-A1KQ-01	TCGA-AO-A1KQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T4	7.878	7.291	10.81	10.39	3.722	9.505	9.447
+TCGA-C8-A12W-01	TCGA-C8-A12W-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T4	7.754	8.21	10.57	10.56	2.41	11.76	11.38
+TCGA-A8-A09B-01	TCGA-A8-A09B-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T4	7.728	8.494	11.1	9.571	3.831	11.1	11.15
+TCGA-BH-A0BZ-01	TCGA-BH-A0BZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	8.875	7.312	11.08	11.16	3.414	10.6	10.44
+TCGA-BH-A0AZ-01	TCGA-BH-A0AZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	8.807	8.958	10.57	11.62	4.895	12.69	12.41
+TCGA-AO-A0JB-01	TCGA-AO-A0JB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	8.238	5.137	10.73	10.09	3.203	9.888	9.917
+TCGA-A8-A07L-01	TCGA-A8-A07L-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	8.173	8.335	11.05	9.664	3.845	11.95	10.56
+TCGA-AO-A0JD-01	TCGA-AO-A0JD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	8.073	4.335	10.7	9.183	3.862	9.031	8.992
+TCGA-A1-A0SJ-01	TCGA-A1-A0SJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	7.939	6.999	11.23	9.913	2.22	10.87	10.98
+TCGA-AR-A0TW-01	TCGA-AR-A0TW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	7.319	8.245	11.22	10.2	1.859	9.047	10.01
+TCGA-BH-A0BS-01	TCGA-BH-A0BS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	7.246	4.66	11.06	8.628	3.078	9.456	11.13
+TCGA-D8-A1Y1-01	TCGA-D8-A1Y1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	7.018	6.697	11.33	10.5	2.398	11.49	11.15
+TCGA-A8-A06T-01	TCGA-A8-A06T-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	6.885	5.751	11.31	9.749	2.602	10.1	9.948
+TCGA-A7-A13F-01	TCGA-A7-A13F-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	6.866	5.689	11.54	10.32	3.516	10.98	10.34
+TCGA-A2-A1G4-01	TCGA-A2-A1G4-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	6.849	5.851	11.76	9.301	4.697	10.43	9.826
+TCGA-E2-A14O-01	TCGA-E2-A14O-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T3	6.667	4.501	11.03	8.831	1.139	8.68	9.384
+TCGA-A2-A0CW-01	TCGA-A2-A0CW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	9.928	8.243	11.03	9.513	2.754	10.19	9.989
+TCGA-A2-A0D4-01	TCGA-A2-A0D4-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	9.667	8.162	10.36	8.468	3.967	10.46	10.03
+TCGA-EW-A1P5-01	TCGA-EW-A1P5-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	9.09	9.375	11.14	10.14	4.087	9.259	10.82
+TCGA-A2-A04Y-01	TCGA-A2-A04Y-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	9.023	8.205	10.52	10.86	2.667	9.835	9.497
+TCGA-E9-A1NE-01	TCGA-E9-A1NE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.799	9.885	11.02	11.93	4.778	11.2	10.98
+TCGA-BH-A0DI-01	TCGA-BH-A0DI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.746	7.666	10.74	11.08	3.704	12.41	12.4
+TCGA-BH-A0BF-01	TCGA-BH-A0BF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.677	7.233	10.85	11.82	3.559	10.61	10.29
+TCGA-D8-A1XL-01	TCGA-D8-A1XL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.672	4.971	10.88	10.12	3.448	10.45	8.916
+TCGA-A2-A0CV-01	TCGA-A2-A0CV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.644	7.056	11.28	10.47	4.139	11.44	11.11
+TCGA-BH-A1FB-01	TCGA-BH-A1FB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.514	7.516	11.22	11.41	4.524	11.65	11.44
+TCGA-A8-A075-01	TCGA-A8-A075-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.5	6.32	10.13	10.42	4.037	11.26	10.41
+TCGA-AO-A03T-01	TCGA-AO-A03T-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.321	8.502	10.58	9.595	3.845	10.28	10.55
+TCGA-BH-A0B1-01	TCGA-BH-A0B1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.31	8.306	11.33	10.08	2.547	10.55	10.82
+TCGA-A8-A07J-01	TCGA-A8-A07J-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.29	7.286	11.05	10.98	3.534	11.68	11.58
+TCGA-BH-A0E1-01	TCGA-BH-A0E1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.281	10.69	10.77	9.363	3.854	10.99	10.69
+TCGA-A8-A09D-01	TCGA-A8-A09D-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.266	5.846	10.83	10.81	2.436	11.93	11.35
+TCGA-E2-A10C-01	TCGA-E2-A10C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.241	4.02	10.56	10.32	1.538	10.74	9.559
+TCGA-BH-A0BJ-01	TCGA-BH-A0BJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.186	11.73	11.19	10.35	4.56	11.76	11.38
+TCGA-BH-A0DQ-01	TCGA-BH-A0DQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.155	10.26	10.8	10.62	1.787	11.97	11.65
+TCGA-A1-A0SI-01	TCGA-A1-A0SI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	8.155	7.966	10.95	11	3.34	12.24	11.67
+TCGA-E9-A227-01	TCGA-E9-A227-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.935	8.667	10.43	10.36	3.243	11.27	10.66
+TCGA-AC-A23E-01	TCGA-AC-A23E-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.892	7.771	11.15	10.83	2.223	12.69	11.56
+TCGA-BH-A0BV-01	TCGA-BH-A0BV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.839	9.515	10.89	10.6	6.223	11.07	10.8
+TCGA-EW-A1PA-01	TCGA-EW-A1PA-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.759	7.317	11.78	10.36	4.641	10.96	10.19
+TCGA-D8-A27K-01	TCGA-D8-A27K-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.743	7.62	11.62	10.6	4.982	11.96	11.03
+TCGA-E2-A15K-01	TCGA-E2-A15K-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.738	5.163	10.99	10.38	4.304	10.57	10.6
+TCGA-A8-A09R-01	TCGA-A8-A09R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.67	6.293	11	10.44	2.817	11.74	11.27
+TCGA-AO-A03R-01	TCGA-AO-A03R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.624	5.557	10.42	10.02	5.017	10.74	8.94
+TCGA-BH-A1FE-01	TCGA-BH-A1FE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.597	9.266	11.18	11.43	3.139	11.65	11.62
+TCGA-B6-A0I5-01	TCGA-B6-A0I5-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.593	8.752	10.87	9.821	4.403	10.74	10.28
+TCGA-AR-A24L-01	TCGA-AR-A24L-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.495	8.574	11.72	10.77	3.99	12.07	11.5
+TCGA-B6-A0WZ-01	TCGA-B6-A0WZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.476	5.608	11.08	8.984	5.924	10.43	9.969
+TCGA-AR-A24V-01	TCGA-AR-A24V-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.465	9.031	11.16	11.04	0.9364	11.22	10.81
+TCGA-D8-A1X9-01	TCGA-D8-A1X9-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.462	6.33	11.27	10.66	4.124	10.85	10.4
+TCGA-BH-A18N-01	TCGA-BH-A18N-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.44	4.262	11.33	9.031	2.537	10.35	9.847
+TCGA-BH-A0DH-01	TCGA-BH-A0DH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.438	5.011	10.82	9.381	2.812	10.35	9.665
+TCGA-BH-A1EX-01	TCGA-BH-A1EX-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.398	6.551	12.22	10.63	2.972	11.85	10.9
+TCGA-A8-A082-01	TCGA-A8-A082-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.37	8.633	10.53	9.776	3.293	11.17	10.35
+TCGA-BH-A1FL-01	TCGA-BH-A1FL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.348	5.157	10.91	9.346	3.661	10.95	10.32
+TCGA-AR-A0TR-01	TCGA-AR-A0TR-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.302	10.75	11.39	8.52	4.377	10.5	9.414
+TCGA-C8-A12U-01	TCGA-C8-A12U-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.268	3.933	10.35	9.611	2.63	8.654	11.45
+TCGA-BH-A0HX-01	TCGA-BH-A0HX-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.23	6.879	10.94	10.18	2.828	11.06	10.47
+TCGA-D8-A1JD-01	TCGA-D8-A1JD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.197	7.522	11.14	10.83	3.981	11.15	10.96
+TCGA-EW-A1J1-01	TCGA-EW-A1J1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.171	9.868	11.62	10.21	3.79	10.47	10.66
+TCGA-E9-A1NH-01	TCGA-E9-A1NH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.148	6.686	11.29	10.61	4.018	12.21	11.32
+TCGA-D8-A1XB-01	TCGA-D8-A1XB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.12	7.238	10.93	10.45	3.343	11.96	11.79
+TCGA-A2-A0CY-01	TCGA-A2-A0CY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	7.021	5.265	9.773	7.81	2.563	10.3	11.07
+TCGA-E2-A14Q-01	TCGA-E2-A14Q-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.967	7.313	10.83	9.706	4.453	10.26	10.56
+TCGA-A2-A25C-01	TCGA-A2-A25C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.952	6.801	11.27	10.37	4.115	11.8	10.93
+TCGA-C8-A273-01	TCGA-C8-A273-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.839	10.58	11.98	9.928	1.743	10.97	10.92
+TCGA-D8-A1XR-01	TCGA-D8-A1XR-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.814	6.842	11.55	9.182	5.109	11.12	10.21
+TCGA-A8-A07F-01	TCGA-A8-A07F-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.804	6.873	11.54	10.44	2.705	10.74	11.17
+TCGA-AR-A1AS-01	TCGA-AR-A1AS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.733	4.47	10.94	9.055	2.337	10.69	10.33
+TCGA-A1-A0SQ-01	TCGA-A1-A0SQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.715	8.353	10.52	9.295	3.756	10.66	8.748
+TCGA-EW-A1P6-01	TCGA-EW-A1P6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.581	6.21	11.07	9.759	2.978	11.02	10.49
+TCGA-A8-A08T-01	TCGA-A8-A08T-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.547	3.735	11.13	9.786	3.583	11.38	10.33
+TCGA-E9-A22H-01	TCGA-E9-A22H-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.37	9.947	10.99	9.696	3.894	10.28	10.17
+TCGA-A2-A25B-01	TCGA-A2-A25B-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.32	7.883	12	10.53	2.848	10.91	9.979
+TCGA-AR-A0U3-01	TCGA-AR-A0U3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.317	7.244	11.34	9.248	4.267	10.16	10.05
+TCGA-AR-A1AV-01	TCGA-AR-A1AV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.289	6.126	11.49	9.801	1.849	11.64	11.04
+TCGA-A8-A085-01	TCGA-A8-A085-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	6.142	5.363	11.06	9.224	3.448	11.76	11.69
+TCGA-D8-A1J8-01	TCGA-D8-A1J8-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	5.93	7.041	11.89	11.17	4.054	10.29	9.71
+TCGA-C8-A27A-01	TCGA-C8-A27A-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	5.883	5.78	11.65	9.596	3.11	9.886	9.356
+TCGA-B6-A0WV-01	TCGA-B6-A0WV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	5.793	7.831	11.24	8.028	2.201	10.34	10.74
+TCGA-BH-A0HL-01	TCGA-BH-A0HL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	5.79	7.609	10.74	7.285	4.839	12.31	10.64
+TCGA-BH-A1ES-01	TCGA-BH-A1ES-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T2	5.762	8.106	11.48	9.892	1.4	11.8	11.09
+TCGA-E2-A1IK-01	TCGA-E2-A1IK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	9.333	3.725	10.49	9.675	4.354	10	9.686
+TCGA-BH-A0HO-01	TCGA-BH-A0HO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	9.232	11.06	10.48	10.13	5.468	10.15	9.786
+TCGA-A8-A09K-01	TCGA-A8-A09K-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	9.084	2.129	11.3	9.604	1.82	10.63	9.447
+TCGA-D8-A141-01	TCGA-D8-A141-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.891	8.26	10.87	11.81	4.198	11.97	11.64
+TCGA-BH-A0W5-01	TCGA-BH-A0W5-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.817	6.173	10.88	11.62	3.791	11.43	10.98
+TCGA-BH-A0EA-01	TCGA-BH-A0EA-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.588	7.092	10.84	9.741	4.463	11.32	10.78
+TCGA-EW-A1PE-01	TCGA-EW-A1PE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.467	6.576	11.48	10.89	3.709	10.93	10.36
+TCGA-E2-A1LA-01	TCGA-E2-A1LA-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.432	4.567	10.89	10.78	3.751	10.31	9.85
+TCGA-A8-A07G-01	TCGA-A8-A07G-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.419	7.452	10.74	10.42	4.456	12.19	11.54
+TCGA-D8-A145-01	TCGA-D8-A145-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.385	7.14	10.98	10.61	2.733	12.21	11.7
+TCGA-AO-A0JF-01	TCGA-AO-A0JF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.361	6.833	10.98	10.89	3.354	12.11	11.31
+TCGA-BH-A0BD-01	TCGA-BH-A0BD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.228	8.358	10.65	10.43	3.782	10.96	10.99
+TCGA-E2-A1L6-01	TCGA-E2-A1L6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	8.173	11.34	11.04	10.18	4.845	11.43	11.13
+TCGA-D8-A1JI-01	TCGA-D8-A1JI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	7.915	10.3	11.31	8.746	4.072	9.032	9.633
+TCGA-E2-A10E-01	TCGA-E2-A10E-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	7.748	7.143	12.11	9.833	3.334	10.97	10.37
+TCGA-BH-A0W3-01	TCGA-BH-A0W3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	7.744	3.78	11.09	8.79	4.627	10.73	10.1
+TCGA-E2-A153-01	TCGA-E2-A153-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	7.742	7.18	11.35	10.65	2.586	11.43	11.15
+TCGA-BH-A0DT-01	TCGA-BH-A0DT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	7.618	6.918	11.46	10.41	4.926	11.01	11.14
+TCGA-BH-A18I-01	TCGA-BH-A18I-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	7.507	7.54	11.36	11.13	3.038	11.95	11.27
+TCGA-E2-A1L9-01	TCGA-E2-A1L9-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	7.029	6.587	11.07	11.12	4.886	11.97	11.31
+TCGA-A8-A086-01	TCGA-A8-A086-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	7.027	7.738	11.33	10.39	1.931	11.47	11.55
+TCGA-BH-A0EI-01	TCGA-BH-A0EI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	6.897	9.053	11.3	10.18	2.59	12.32	12.36
+TCGA-D8-A1JE-01	TCGA-D8-A1JE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	6.821	6.803	11.5	10.93	2.473	11.4	11.01
+TCGA-BH-A0BT-01	TCGA-BH-A0BT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	6.75	5.624	11.1	9.644	1.881	9.586	9.556
+TCGA-AO-A1KT-01	TCGA-AO-A1KT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	6.643	5.777	11.03	9.988	3.831	11.28	10.96
+TCGA-E2-A106-01	TCGA-E2-A106-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	6.288	7.911	10.31	8.372	3.953	10.31	9.502
+TCGA-A2-A0T3-01	TCGA-A2-A0T3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	6.236	8.452	11.27	9.146	4.648	10.44	10.56
+TCGA-E2-A15R-01	TCGA-E2-A15R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	6.23	5.128	11.93	8.781	5.611	11.39	9.818
+TCGA-A2-A0ER-01	TCGA-A2-A0ER-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	5.811	8.111	11.33	9.372	3.412	10.73	10.54
+TCGA-AO-A1KP-01	TCGA-AO-A1KP-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N1	T1	4.557	5.851	11.41	9.272	2.496	10.23	9.998
+TCGA-B6-A0RM-01	TCGA-B6-A0RM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	TX	11.29	5.015	11.11	8.705	4.779	10.64	9.83
+TCGA-AN-A0FK-01	TCGA-AN-A0FK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T4	8.544	4.676	10.75	9.09	3.14	10.12	9.845
+TCGA-B6-A0IJ-01	TCGA-B6-A0IJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T3	10.82	3.051	11.04	11.16	5.474	10.18	11.49
+TCGA-A8-A06Z-01	TCGA-A8-A06Z-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T3	8.575	3.444	11.21	8.473	1.714	9.976	9.505
+TCGA-A8-A083-01	TCGA-A8-A083-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T3	5.967	4.052	10.21	7.905	0.8312	9.298	10.04
+TCGA-AO-A0JC-01	TCGA-AO-A0JC-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	10.86	3.681	9.386	13.36	3.821	10.17	8.587
+TCGA-BH-A0DK-01	TCGA-BH-A0DK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	9.514	6.326	10.41	11.43	3.446	11.02	10.55
+TCGA-AR-A0TV-01	TCGA-AR-A0TV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	9.04	3.385	10.93	9.877	4.84	9.838	10.2
+TCGA-AR-A1AW-01	TCGA-AR-A1AW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.929	5.307	10.19	12.47	4.045	10.9	9.924
+TCGA-A2-A0CZ-01	TCGA-A2-A0CZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.791	7.515	10.88	10.91	4.325	12.21	12.45
+TCGA-BH-A0AY-01	TCGA-BH-A0AY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.729	7.815	10.03	10.76	3.898	11.69	10.67
+TCGA-BH-A1EY-01	TCGA-BH-A1EY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.693	6.93	11.33	11.1	3.552	11.44	12.01
+TCGA-BH-A0DE-01	TCGA-BH-A0DE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.62	5.207	11.08	10.57	4.618	11.34	10.4
+TCGA-D8-A1Y2-01	TCGA-D8-A1Y2-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.498	6.317	11.13	11.3	3.69	11.46	11.34
+TCGA-A8-A08I-01	TCGA-A8-A08I-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.477	8.783	10.8	11.07	3.39	10.29	10.24
+TCGA-BH-A0H9-01	TCGA-BH-A0H9-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.403	9.185	11.34	9.246	2.509	10.86	11.41
+TCGA-A2-A0CU-01	TCGA-A2-A0CU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.397	6.997	10.98	9.243	3.45	10.79	10.07
+TCGA-AN-A0XL-01	TCGA-AN-A0XL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.382	9.475	11.44	10.36	4.157	11.29	10.83
+TCGA-A2-A1FZ-01	TCGA-A2-A1FZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.299	7.014	11.29	10.41	4.439	11.64	12.03
+TCGA-AO-A12A-01	TCGA-AO-A12A-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.296	8.56	11.19	10.44	4.695	11.03	10.57
+TCGA-A2-A0T7-01	TCGA-A2-A0T7-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.277	8.585	10.83	10.42	4.887	11.43	11.5
+TCGA-A1-A0SF-01	TCGA-A1-A0SF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.268	9.419	11.15	10.36	3.382	11.09	11.32
+TCGA-AR-A1AN-01	TCGA-AR-A1AN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.206	8.62	10.72	10.63	2.366	11.77	11.58
+TCGA-C8-A12N-01	TCGA-C8-A12N-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.206	7.004	11.2	10.45	2.442	11.05	11.02
+TCGA-A7-A0DB-01	TCGA-A7-A0DB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.189	6.478	11.01	10.02	3.403	11	10.52
+TCGA-A8-A090-01	TCGA-A8-A090-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.181	5.244	11.68	10.32	3.575	10.67	10.32
+TCGA-AN-A03X-01	TCGA-AN-A03X-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.128	7.784	11.08	10.68	4.188	11.86	12.08
+TCGA-D8-A1JJ-01	TCGA-D8-A1JJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.119	6.185	10.81	10.33	2.783	11.65	11.8
+TCGA-BH-A18F-01	TCGA-BH-A18F-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.094	6.524	10.71	10.39	3.535	11.49	10.95
+TCGA-A8-A096-01	TCGA-A8-A096-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.078	6.137	10.61	11.18	3.866	11.37	10.81
+TCGA-A8-A07Z-01	TCGA-A8-A07Z-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.025	5.261	10.66	9.001	2.679	10.64	10.15
+TCGA-E9-A1NG-01	TCGA-E9-A1NG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	8.011	7.251	11.73	11.63	0	12.22	11.34
+TCGA-D8-A146-01	TCGA-D8-A146-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.967	7.738	11.25	10.65	3.022	12.05	11.52
+TCGA-C8-A1HM-01	TCGA-C8-A1HM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.963	9.446	10.42	11.22	4.807	8.385	8.158
+TCGA-AN-A046-01	TCGA-AN-A046-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.918	6.423	10.63	10.72	2.966	9.9	10.24
+TCGA-E2-A15I-01	TCGA-E2-A15I-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.854	7.84	11.7	10.55	4.048	11.31	10.8
+TCGA-A7-A26J-01	TCGA-A7-A26J-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.839	9.551	11.6	10.5	3.773	11.17	10.95
+TCGA-E2-A15F-01	TCGA-E2-A15F-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.775	8.886	11.3	9.551	2.699	10.74	10.07
+TCGA-EW-A1P3-01	TCGA-EW-A1P3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.756	7.026	11.43	9.999	4.471	10.87	10.36
+TCGA-BH-A1FN-01	TCGA-BH-A1FN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.748	8.291	10.4	10.14	3.718	11.45	11.61
+TCGA-A8-A07W-01	TCGA-A8-A07W-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.745	7.648	11.03	10.06	0.7098	11.82	11.34
+TCGA-E2-A15T-01	TCGA-E2-A15T-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.679	8.267	11.16	8.467	4.96	10.87	10.23
+TCGA-E2-A15D-01	TCGA-E2-A15D-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.676	7.831	11.58	10.02	4.96	11.04	10.6
+TCGA-A1-A0SD-01	TCGA-A1-A0SD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.572	6.186	11.27	10.26	3.312	11.64	10.62
+TCGA-BH-A0W4-01	TCGA-BH-A0W4-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.567	8.08	11.26	9.767	4.193	11.63	11.51
+TCGA-AN-A049-01	TCGA-AN-A049-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.486	6.815	10.01	9.967	5.319	11	10.77
+TCGA-A2-A0SU-01	TCGA-A2-A0SU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.443	5.947	11.46	9.746	4.006	10.63	10.87
+TCGA-AO-A12B-01	TCGA-AO-A12B-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.404	5.069	10.91	8.489	3.305	10.12	9.961
+TCGA-AO-A03O-01	TCGA-AO-A03O-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.325	4.567	10.04	10.06	0.9057	10.35	9.452
+TCGA-A8-A06Y-01	TCGA-A8-A06Y-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.315	3.338	11.41	7.74	2.578	10.04	9.748
+TCGA-A8-A09A-01	TCGA-A8-A09A-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.281	6.079	11.7	10.6	3.455	12.16	11.29
+TCGA-A8-A08C-01	TCGA-A8-A08C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.193	5.151	11.51	9.125	4.945	10.19	10.28
+TCGA-A8-A093-01	TCGA-A8-A093-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.153	7.563	11.45	9.776	1.398	11.76	11.44
+TCGA-A8-A081-01	TCGA-A8-A081-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.128	3.095	11.29	10.09	3.696	9.965	9.178
+TCGA-A2-A0T5-01	TCGA-A2-A0T5-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.114	8.757	11.05	9.555	4.421	11.22	10.49
+TCGA-BH-A0AU-01	TCGA-BH-A0AU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.067	7.38	11.53	10.52	3.508	11.46	11.51
+TCGA-A8-A0A9-01	TCGA-A8-A0A9-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.056	7.986	9.966	9.772	3.057	11.41	11.22
+TCGA-A8-A09C-01	TCGA-A8-A09C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	7.021	5.43	11.28	9.262	2.584	11.27	10.62
+TCGA-E2-A14T-01	TCGA-E2-A14T-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.992	4.492	11.04	9.597	2.182	10.56	10.72
+TCGA-EW-A1OY-01	TCGA-EW-A1OY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.984	7.644	11.17	9.159	1.617	9.856	10.19
+TCGA-BH-A0HQ-01	TCGA-BH-A0HQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.973	6.843	11.02	9.867	3.112	12.08	11.1
+TCGA-C8-A1HG-01	TCGA-C8-A1HG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.93	7.582	10.77	10.81	2.779	9.326	10.58
+TCGA-E2-A1BD-01	TCGA-E2-A1BD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.774	7.358	11.03	9.511	2.467	10.32	10.32
+TCGA-AN-A03Y-01	TCGA-AN-A03Y-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.743	4.988	10.9	9.511	1.28	10.01	9.762
+TCGA-A7-A0CJ-01	TCGA-A7-A0CJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.716	3.623	10.36	8.937	2.365	10.07	10.48
+TCGA-C8-A1HE-01	TCGA-C8-A1HE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.398	6.104	12.04	9.615	3.412	10.83	10.22
+TCGA-C8-A26Z-01	TCGA-C8-A26Z-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.366	6.615	11.63	9.572	1.886	11.2	10.84
+TCGA-C8-A274-01	TCGA-C8-A274-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.334	7.238	11.38	8.913	3.034	11.46	10.13
+TCGA-AR-A24Z-01	TCGA-AR-A24Z-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.236	9.076	10.93	9.842	3.836	10.28	9.923
+TCGA-AR-A24K-01	TCGA-AR-A24K-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	6.167	4.912	12.34	9.255	3.8	10.4	10.28
+TCGA-D8-A1XF-01	TCGA-D8-A1XF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	5.621	5.301	11.22	8.752	1.924	9.692	9.13
+TCGA-B6-A0RL-01	TCGA-B6-A0RL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T2	5.173	2.775	10.89	6.563	0.9434	9.632	9.361
+TCGA-BH-A0H5-01	TCGA-BH-A0H5-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	9.915	5.642	10.53	12.01	4.071	10.23	10.41
+TCGA-D8-A13Y-01	TCGA-D8-A13Y-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	9.258	9.908	11.12	8.851	6.106	10.65	10.61
+TCGA-BH-A0B0-01	TCGA-BH-A0B0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	9.139	7.253	10.69	10.48	4.165	12.45	11.71
+TCGA-E2-A1IO-01	TCGA-E2-A1IO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.934	7.236	11.29	11.23	4.018	12.56	12.32
+TCGA-E2-A1IF-01	TCGA-E2-A1IF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.918	8.413	10.66	10.17	3.039	11.56	11.25
+TCGA-A2-A0YI-01	TCGA-A2-A0YI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.86	6.044	10.75	11.19	5.04	11.51	10.68
+TCGA-BH-A0BP-01	TCGA-BH-A0BP-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.825	7.431	10.64	10.06	4.759	12.01	11.11
+TCGA-A7-A0CD-01	TCGA-A7-A0CD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.764	4.869	10.67	9.262	3.366	11.4	9.815
+TCGA-D8-A1JU-01	TCGA-D8-A1JU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.708	7.735	10.72	11.21	2.794	12.31	11.65
+TCGA-A2-A04R-01	TCGA-A2-A04R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.697	7.64	11.23	9.31	4.019	10.92	10.34
+TCGA-BH-A0BQ-01	TCGA-BH-A0BQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.689	7.14	10.98	10.65	5.151	11.3	11.38
+TCGA-BH-A0BO-01	TCGA-BH-A0BO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.569	7.264	10.95	10.42	3.551	11.86	11.45
+TCGA-BH-A18H-01	TCGA-BH-A18H-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.544	6.467	10.28	10.96	2.5	10.41	9.526
+TCGA-BH-A1EU-01	TCGA-BH-A1EU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.53	7.467	10.77	11.58	4.307	11.83	11.42
+TCGA-AR-A252-01	TCGA-AR-A252-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.445	5.477	10.8	12.08	3.684	11.34	10.44
+TCGA-AR-A24N-01	TCGA-AR-A24N-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.424	6.621	11.65	10.1	3.911	10.81	10.8
+TCGA-BH-A0HF-01	TCGA-BH-A0HF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.406	5.457	10.75	10.15	2.195	11.38	11.16
+TCGA-BH-A0W7-01	TCGA-BH-A0W7-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.401	6.933	10.33	11.14	3.736	11.73	10.76
+TCGA-D8-A1XU-01	TCGA-D8-A1XU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.39	8.024	10.72	10.17	4.985	12.19	11.27
+TCGA-A8-A06O-01	TCGA-A8-A06O-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.375	5.211	10.74	10.02	2.245	11	10.48
+TCGA-D8-A1XM-01	TCGA-D8-A1XM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.345	8.777	10.39	10.7	2.384	11.5	11.24
+TCGA-B6-A0WS-01	TCGA-B6-A0WS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.329	8.314	11.11	10.78	4.497	11.14	11.22
+TCGA-E2-A14Z-01	TCGA-E2-A14Z-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.247	5.29	9.986	10.98	3.031	10.15	10.2
+TCGA-BH-A0HA-01	TCGA-BH-A0HA-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.245	8.859	10.49	10.96	2.495	11.17	10.61
+TCGA-D8-A1JH-01	TCGA-D8-A1JH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.214	7.602	11.33	10.83	4.176	11.99	11.57
+TCGA-E2-A14S-01	TCGA-E2-A14S-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.192	4.886	10.86	10.04	2.419	10.08	9.808
+TCGA-A2-A0CQ-01	TCGA-A2-A0CQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.157	3.935	10.95	9.513	4.465	9.834	10.05
+TCGA-AO-A03M-01	TCGA-AO-A03M-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.154	10.81	10.95	10.79	3.372	10.1	10.33
+TCGA-A8-A08A-01	TCGA-A8-A08A-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.148	5.941	10.6	9.95	4.956	11.05	11.17
+TCGA-A2-A0CP-01	TCGA-A2-A0CP-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.104	6.973	10.5	10.17	3.849	12.01	11.55
+TCGA-BH-A0BR-01	TCGA-BH-A0BR-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.087	6.712	11.18	10.89	3.194	12.53	12.31
+TCGA-BH-A0DX-01	TCGA-BH-A0DX-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.069	7.468	9.903	10.71	4.697	12.18	12.02
+TCGA-EW-A1PF-01	TCGA-EW-A1PF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	8.045	6.563	11.09	10.77	3.035	12.11	11.39
+TCGA-A2-A0EO-01	TCGA-A2-A0EO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.944	6.772	11.27	10.75	3.368	11.52	11.49
+TCGA-D8-A1JP-01	TCGA-D8-A1JP-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.919	6.435	10.77	10.68	5.838	11.72	10.76
+TCGA-EW-A1J6-01	TCGA-EW-A1J6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.907	4.079	11.53	10.65	2.88	9.178	9.593
+TCGA-BH-A0HI-01	TCGA-BH-A0HI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.845	6.676	10.19	9.877	4.131	11.09	10.65
+TCGA-BH-A0HN-01	TCGA-BH-A0HN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.831	4.256	10.61	8.278	3.432	9.237	8.673
+TCGA-BH-A0DO-01	TCGA-BH-A0DO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.804	8.286	11.52	9.571	4.585	11.3	10.38
+TCGA-AR-A24P-01	TCGA-AR-A24P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.733	8.164	11.47	10.51	3.584	12.15	11.51
+TCGA-BH-A0HB-01	TCGA-BH-A0HB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.727	3.585	10.53	10.29	4.297	10.05	10.05
+TCGA-A2-A04N-01	TCGA-A2-A04N-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.724	7.138	11.09	10.38	2.796	11.2	11.21
+TCGA-E2-A15J-01	TCGA-E2-A15J-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.666	5.463	11.38	8.61	2.88	10	9.971
+TCGA-AR-A1AP-01	TCGA-AR-A1AP-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.639	10.27	11.47	10.01	3.385	11.23	11.06
+TCGA-B6-A1KI-01	TCGA-B6-A1KI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.603	6.073	11	9.536	2.08	11.56	10.61
+TCGA-BH-A18K-01	TCGA-BH-A18K-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.589	9.735	11.28	10.31	2.486	11.38	11.14
+TCGA-AN-A0FF-01	TCGA-AN-A0FF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.532	12.3	10.81	10.47	4.722	11.17	10.27
+TCGA-A2-A0EV-01	TCGA-A2-A0EV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.508	9.367	11.49	10.47	1.789	11.1	11.7
+TCGA-A2-A259-01	TCGA-A2-A259-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.508	5.046	11.4	10.45	3.027	11	10.36
+TCGA-A8-A095-01	TCGA-A8-A095-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.507	11.51	11.42	9.884	4.682	11.29	11.02
+TCGA-AO-A03V-01	TCGA-AO-A03V-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.484	6.517	10.74	9.632	2.939	10.66	10.93
+TCGA-AR-A24S-01	TCGA-AR-A24S-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.459	6.426	10.84	11.32	3.995	11.88	10.74
+TCGA-BH-A0H3-01	TCGA-BH-A0H3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.424	7.561	11.12	10.9	3.62	12	11.85
+TCGA-E2-A15P-01	TCGA-E2-A15P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.406	6.391	11.33	9.771	3.675	10.86	10.67
+TCGA-E2-A1IU-01	TCGA-E2-A1IU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.348	4.935	11.1	9.421	2.756	10.21	9.821
+TCGA-BH-A0H6-01	TCGA-BH-A0H6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.343	6.442	11.28	9.892	2.086	11.63	10.88
+TCGA-E2-A1BC-01	TCGA-E2-A1BC-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.294	6.684	10.82	10.06	0.8444	11.72	11.21
+TCGA-D8-A27P-01	TCGA-D8-A27P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.291	5.791	10.84	9.161	4.344	11.72	10.76
+TCGA-BH-A0HU-01	TCGA-BH-A0HU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.134	6.78	10.82	8.99	4.07	10.41	10.48
+TCGA-AN-A0FY-01	TCGA-AN-A0FY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	7.084	6.597	10.4	9.868	2.093	11.83	10.7
+TCGA-BH-A1ET-01	TCGA-BH-A1ET-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.915	5.906	11.35	10.53	1.657	11.23	10.89
+TCGA-E2-A15C-01	TCGA-E2-A15C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.851	5.739	11.26	10.07	2.632	11.4	10.56
+TCGA-BH-A0H0-01	TCGA-BH-A0H0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.764	2.479	11.46	8.826	1.986	10.45	9.017
+TCGA-E2-A1IN-01	TCGA-E2-A1IN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.697	7.589	11.11	10.54	2.966	12.07	11.51
+TCGA-A2-A0D3-01	TCGA-A2-A0D3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.582	6.439	11.17	9.517	4.098	10.57	9.874
+TCGA-D8-A1XA-01	TCGA-D8-A1XA-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.553	5.391	11.44	9.63	5.405	10.47	11.49
+TCGA-BH-A1FD-01	TCGA-BH-A1FD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.538	7.298	11.4	10.17	4.471	10.28	9.969
+TCGA-E2-A156-01	TCGA-E2-A156-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.515	2.408	11.62	8.134	0.7806	9.654	9.482
+TCGA-A2-A0EM-01	TCGA-A2-A0EM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.505	9.162	10.76	9.689	4.807	11.83	11.18
+TCGA-BH-A0B8-01	TCGA-BH-A0B8-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.501	4.526	11.05	9.304	5.607	11.54	10.36
+TCGA-EW-A1IY-01	TCGA-EW-A1IY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.476	8.672	11.88	11.67	4.488	11.38	11.38
+TCGA-A2-A0EU-01	TCGA-A2-A0EU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.242	5.533	11.28	9.511	2.194	10.71	10.44
+TCGA-E2-A154-01	TCGA-E2-A154-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive	Negative	N0	T1	6.23	6.401	11.25	9.205	4.349	11.68	10.64
+TCGA-BH-A18L-01	TCGA-BH-A18L-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive		N1	T3	7.921	2.935	10.86	9.24	2.16	10.32	8.935
+TCGA-E2-A1IG-01	TCGA-E2-A1IG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive		N1	T2	7.981	6.784	11.08	10.43	3.189	11.51	11.15
+TCGA-B6-A0IG-01	TCGA-B6-A0IG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive		N1	T2	7.131	5.002	10.65	9.106	2.229	10.07	10.47
+TCGA-C8-A12O-01	TCGA-C8-A12O-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive		N0	T2	8.914	6.847	11.16	10.97	3.5	12.16	11.36
+TCGA-BH-A1FG-01	TCGA-BH-A1FG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive		N0	T1	7.734	5.74	11.42	9.222	0.4481	8.855	9.678
+TCGA-GM-A2DM-01	TCGA-GM-A2DM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive				8.915	5.533	10.89	9.225	3.063	9.418	9.989
+TCGA-BH-A202-01	TCGA-BH-A202-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive				8.754	8.163	10.94	10.33	3.515	10.59	9.837
+TCGA-GM-A2DN-01	TCGA-GM-A2DN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive				8.276	7.482	10.71	11.02	4.639	11.08	10.1
+TCGA-GM-A2DL-01	TCGA-GM-A2DL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive				7.843	6.493	10.84	10.69	5.22	11.36	10.89
+TCGA-BH-A201-01	TCGA-BH-A201-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive				7.634	7.643	11.36	10.03	3.975	12.16	11.39
+TCGA-GM-A2DC-01	TCGA-GM-A2DC-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive				7.077	3.704	10.8	9.282	2.099	10.18	9.852
+TCGA-BH-A1EV-01	TCGA-BH-A1EV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive				7.063	6.209	9.858	9.808	3.131	11.69	10.26
+TCGA-BH-A1F5-01	TCGA-BH-A1F5-01	Primary Tumor	Infiltrating Ductal Carcinoma	Positive	Positive				3.635	6.073	12.09	9.794	2.228	10.67	10.52
+TCGA-BH-A18R-01	TCGA-BH-A18R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Indeterminate	Positive	N1	T2	6.727	4.466	11.26	9.492	2.094	10.94	10.43
+TCGA-A8-A07R-01	TCGA-A8-A07R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Equivocal	N3	T2	9.094	3.486	9.915	8.51	5.718	10.74	11.51
+TCGA-AO-A0JE-01	TCGA-AO-A0JE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N2	T2	8.221	7.071	10.1	11.24	4.992	10.8	11.01
+TCGA-C8-A278-01	TCGA-C8-A278-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N2	T2	7.682	6.111	10.62	11.23	3.733	10.26	10.68
+TCGA-E2-A1B0-01	TCGA-E2-A1B0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N2	T2	7.601	7.614	11.2	10.45	4.564	12.04	10.71
+TCGA-C8-A12Q-01	TCGA-C8-A12Q-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N2	T1	7.457	5.766	11.78	10.42	2.287	11.6	12.18
+TCGA-A8-A08X-01	TCGA-A8-A08X-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N3	T4	8.087	6.688	9.983	10.84	3.037	12.51	11.15
+TCGA-A2-A0T1-01	TCGA-A2-A0T1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N3	T3	9.113	6.015	10.01	11.14	3.208	11.43	11.77
+TCGA-E2-A14P-01	TCGA-E2-A14P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N3	T2	8.902	6.438	10.43	9.672	2.434	10.28	10.85
+TCGA-B6-A1KN-01	TCGA-B6-A1KN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T4	7.882	5.334	11.4	9.795	2.772	10.24	10.03
+TCGA-C8-A12P-01	TCGA-C8-A12P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T2	9.871	6.547	11.15	10.35	3.726	10.84	11.48
+TCGA-C8-A135-01	TCGA-C8-A135-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T2	7.938	5.939	9.88	10.47	3.698	11.24	11.32
+TCGA-E2-A1LB-01	TCGA-E2-A1LB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T2	7.698	5.19	9.676	9.314	2.051	11.25	10.86
+TCGA-C8-A12Z-01	TCGA-C8-A12Z-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T2	7.576	7.004	10.72	9.109	3.371	10.89	11.06
+TCGA-AN-A04C-01	TCGA-AN-A04C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T2	7.204	3.626	9.783	9.193	3.138	10.46	10.16
+TCGA-A2-A1G1-01	TCGA-A2-A1G1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T2	6.421	5.242	10.67	10.81	5.517	11.22	10.84
+TCGA-B6-A1KF-01	TCGA-B6-A1KF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T2	6.199	3.927	10.76	8.155	4.855	11.23	12.15
+TCGA-C8-A1HK-01	TCGA-C8-A1HK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T2	5.943	6.768	11.07	9.484	1.808	10.24	11.58
+TCGA-D8-A1XT-01	TCGA-D8-A1XT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T1	9.248	7.163	11.54	10.6	4.678	11.07	11.04
+TCGA-AR-A24U-01	TCGA-AR-A24U-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T1	9.193	5.691	11	11.35	2.991	11.07	10.54
+TCGA-AO-A12D-01	TCGA-AO-A12D-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N1	T1	8.148	6.345	10.37	11.11	3.271	10.94	9.838
+TCGA-A2-A0EQ-01	TCGA-A2-A0EQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N0	T2	8.381	4.202	10.34	11.41	4.826	10.33	11.31
+TCGA-C8-A12L-01	TCGA-C8-A12L-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N0	T2	7.947	6.825	10.49	9.135	5.147	10.52	10.24
+TCGA-AN-A0FV-01	TCGA-AN-A0FV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N0	T2	7.356	5.522	10.51	9.797	2.757	11.84	11.96
+TCGA-BH-A1EN-01	TCGA-BH-A1EN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N0	T2	7.084	8.831	11.37	9.151	0.3978	12.09	10.98
+TCGA-A2-A0D1-01	TCGA-A2-A0D1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N0	T2	7.059	6.406	10.15	8.623	3.445	11.99	12.06
+TCGA-BH-A1FU-01	TCGA-BH-A1FU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Positive	N0	T1	8.913	7.056	10.57	10.92	4.582	12.38	12.1
+TCGA-AO-A0JL-01	TCGA-AO-A0JL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N2	T2	8.9	2.701	10.91	9.281	5.282	10.58	12
+TCGA-A2-A1G6-01	TCGA-A2-A1G6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N2	T2	8.443	6.23	11.18	10.55	4.438	10.8	10.65
+TCGA-D8-A13Z-01	TCGA-D8-A13Z-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N2	T2	7.758	5.663	10.31	10.21	2.615	11.19	12.04
+TCGA-C8-A131-01	TCGA-C8-A131-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N2	T2	7.746	6.231	10.39	10	2.127	11.48	10.95
+TCGA-E2-A14X-01	TCGA-E2-A14X-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N2	T2	7.377	3.905	10.62	10.57	1.169	11.5	11.47
+TCGA-AR-A1AR-01	TCGA-AR-A1AR-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N2	T1	7.131	4.427	11.41	11.29	4.817	11.11	10.55
+TCGA-D8-A1JF-01	TCGA-D8-A1JF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N2	T1	6.936	5.725	11.7	10.24	2.825	11.33	11.48
+TCGA-BH-A0E0-01	TCGA-BH-A0E0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N3	T3	8.593	3.055	10.78	8.832	4.125	11.79	10.1
+TCGA-EW-A1P8-01	TCGA-EW-A1P8-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N3	T2	9.198	3.555	10.4	9.977	5.698	10.61	11
+TCGA-EW-A1PB-01	TCGA-EW-A1PB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T3	10.63	8.611	10.48	10.82	5.962	6.718	11.08
+TCGA-B6-A0RT-01	TCGA-B6-A0RT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T3	10.07	5.652	10.68	12.46	5.194	10.77	10.64
+TCGA-B6-A0IQ-01	TCGA-B6-A0IQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T3	9.137	4.201	10.45	8.922	3.916	10.99	11.23
+TCGA-AO-A129-01	TCGA-AO-A129-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	10.08	4.371	10.55	10.37	7.884	10.64	10.94
+TCGA-AR-A0U1-01	TCGA-AR-A0U1-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	10.06	8.552	11.62	9.95	3.011	11.21	10.85
+TCGA-AN-A04D-01	TCGA-AN-A04D-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	9.846	1.724	9.851	7.4	3.711	10	10.79
+TCGA-A2-A0YE-01	TCGA-A2-A0YE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	9.617	6.66	10.38	9.364	4.153	10.55	12.23
+TCGA-BH-A0B3-01	TCGA-BH-A0B3-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	9.608	5.521	10.51	10.29	6.223	10.8	11.12
+TCGA-E2-A1AZ-01	TCGA-E2-A1AZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	9.033	5.349	11.36	11.14	4.066	12.91	10.88
+TCGA-EW-A1OV-01	TCGA-EW-A1OV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	9.028	4.431	10.23	11.82	3.715	10.91	10.91
+TCGA-AR-A0TS-01	TCGA-AR-A0TS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	9.026	4.638	9.974	11.38	6.26	11.51	11.88
+TCGA-E9-A1ND-01	TCGA-E9-A1ND-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	8.829	4.727	10.99	11.14	4.169	9.579	11.11
+TCGA-AR-A0U0-01	TCGA-AR-A0U0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	8.46	4.703	10.69	10.92	4.218	8.933	12.23
+TCGA-BH-A18V-01	TCGA-BH-A18V-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	8.306	4.636	11.13	10.68	5.536	11.18	11.56
+TCGA-E2-A1LI-01	TCGA-E2-A1LI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	7.945	3.235	11.11	9.947	8.002	10.45	11.21
+TCGA-BH-A18Q-01	TCGA-BH-A18Q-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	7.787	3.367	10.34	9.759	3.307	11.28	10.88
+TCGA-A8-A08R-01	TCGA-A8-A08R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	7.369	5.076	10.7	10.62	3.348	11.24	11.38
+TCGA-BH-A1EW-01	TCGA-BH-A1EW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	7.271	6.297	11.22	10.59	1.814	11.17	10.81
+TCGA-D8-A1XK-01	TCGA-D8-A1XK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	7.208	5.465	10.67	9.597	5.483	11.64	11.66
+TCGA-A2-A0T0-01	TCGA-A2-A0T0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	7.084	4.658	10.84	9.842	4.581	10.22	11.96
+TCGA-E2-A14N-01	TCGA-E2-A14N-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	5.513	4.488	10.75	9.992	7.781	10.14	11.8
+TCGA-A1-A0SO-01	TCGA-A1-A0SO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T2	3.689	4.013	10.18	8.196	6.251	9.817	11.43
+TCGA-C8-A26X-01	TCGA-C8-A26X-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T1	10.92	5.687	10.05	10.99	3.642	11.06	10.04
+TCGA-A2-A0ST-01	TCGA-A2-A0ST-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T1	9.552	5.304	10.39	11.8	4.991	10.61	10.98
+TCGA-E2-A158-01	TCGA-E2-A158-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N1	T1	6.889	0.7532	11.44	7.532	3.845	11.54	9.593
+TCGA-B6-A0RE-01	TCGA-B6-A0RE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	TX	9.048	4.594	10.99	9.197	7.104	10.49	11.59
+TCGA-AN-A0AL-01	TCGA-AN-A0AL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T4	10.02	5.822	10.44	10.81	6.679	11.04	11.75
+TCGA-C8-A27B-01	TCGA-C8-A27B-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T3	8.1	2.511	10.84	10.53	6.866	11.14	11.3
+TCGA-D8-A142-01	TCGA-D8-A142-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T3	7.64	5.765	10.97	10.48	2.934	12.06	11.54
+TCGA-B6-A0RG-01	TCGA-B6-A0RG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T3	6.57	9.242	11.14	9.597	2.478	10.45	11.32
+TCGA-A2-A0D0-01	TCGA-A2-A0D0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	12.91	2.844	10.5	8.934	5.068	10.24	9.51
+TCGA-AO-A128-01	TCGA-AO-A128-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	10.56	4.453	9.802	12.1	5.647	12.41	10
+TCGA-C8-A134-01	TCGA-C8-A134-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	10.42	3.561	11.45	10.34	4.232	11.14	10.37
+TCGA-C8-A12V-01	TCGA-C8-A12V-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	10.37	4.491	10.48	11.99	7.277	10.2	10.79
+TCGA-D8-A1JG-01	TCGA-D8-A1JG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	10.32	6.827	10.28	10.77	2.797	10.37	11.49
+TCGA-E2-A1B6-01	TCGA-E2-A1B6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	10.22	3.604	9.792	12.11	2.857	10.98	9.676
+TCGA-A2-A04T-01	TCGA-A2-A04T-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.79	4.722	10.67	10.02	3.964	11.25	11.59
+TCGA-AR-A1AQ-01	TCGA-AR-A1AQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.736	5.953	10.52	10.94	4.66	10.49	10.47
+TCGA-AN-A0FX-01	TCGA-AN-A0FX-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.42	4.923	10.75	9.579	3.566	11.19	11.7
+TCGA-AR-A0U4-01	TCGA-AR-A0U4-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.379	3.542	9.7	11.01	6.424	11.95	11.91
+TCGA-C8-A26Y-01	TCGA-C8-A26Y-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.362	7.339	10.99	9.138	3.112	10.48	10.51
+TCGA-BH-A18T-01	TCGA-BH-A18T-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.341	4.311	10.86	8.914	8.503	11.01	11.64
+TCGA-D8-A27H-01	TCGA-D8-A27H-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.311	6.47	10.91	10.54	2.253	12.92	11.78
+TCGA-D8-A1JL-01	TCGA-D8-A1JL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.29	6.411	11.13	11.28	5.826	10.97	10.84
+TCGA-A8-A07O-01	TCGA-A8-A07O-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	9.089	4.221	10.91	9.631	6.149	11.34	10.94
+TCGA-AQ-A04J-01	TCGA-AQ-A04J-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.975	5.368	9.984	10.91	5.074	11.73	11.07
+TCGA-E2-A159-01	TCGA-E2-A159-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.973	6.091	10.91	11.19	4.237	10.83	11.65
+TCGA-A2-A0D2-01	TCGA-A2-A0D2-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.964	4.748	11.37	9.743	2.231	11.22	12.15
+TCGA-D8-A1XQ-01	TCGA-D8-A1XQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.895	4.49	10.44	10.44	3.499	10.91	10.73
+TCGA-E9-A22G-01	TCGA-E9-A22G-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.871	2.652	11.24	8.824	5.674	11.58	10.65
+TCGA-A7-A26I-01	TCGA-A7-A26I-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.832	5.509	11.77	10.39	6.092	13.02	11.19
+TCGA-AO-A0J6-01	TCGA-AO-A0J6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.806	3.983	10.49	9.655	7.085	9.128	11.66
+TCGA-AN-A0FL-01	TCGA-AN-A0FL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.787	2.897	11.32	8.293	6.293	9.41	9.549
+TCGA-A1-A0SP-01	TCGA-A1-A0SP-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.769	7.345	10.76	9.986	5.587	10.5	11.12
+TCGA-AN-A0XU-01	TCGA-AN-A0XU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.532	8.105	10.82	10.98	5.203	10.99	11.83
+TCGA-A2-A04U-01	TCGA-A2-A04U-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.49	4.338	10.49	8.935	4.445	9.981	10.09
+TCGA-A2-A0YM-01	TCGA-A2-A0YM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.45	4.223	10.83	10.37	7.943	11.14	11.9
+TCGA-AO-A12F-01	TCGA-AO-A12F-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.356	5.172	11.09	10.07	5.088	11.18	11.23
+TCGA-D8-A147-01	TCGA-D8-A147-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.299	6.384	10.75	10.54	4.446	11.35	11.27
+TCGA-E2-A150-01	TCGA-E2-A150-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.29	4.854	11.27	10.05	4.323	10.18	10.82
+TCGA-EW-A1OW-01	TCGA-EW-A1OW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.256	5.335	11.11	10.1	5.209	11.14	11.38
+TCGA-AN-A0AT-01	TCGA-AN-A0AT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.23	2.561	10.65	9.702	6.565	10.12	10.91
+TCGA-AN-A0AR-01	TCGA-AN-A0AR-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	8.106	3.038	10.57	8.038	7.556	11.34	10.78
+TCGA-AN-A0G0-01	TCGA-AN-A0G0-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	7.826	3.827	10.77	9.077	5.042	11.44	11.2
+TCGA-D8-A143-01	TCGA-D8-A143-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	7.784	7.794	9.717	9.511	3.386	10.37	11.66
+TCGA-A7-A0DA-01	TCGA-A7-A0DA-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	7.479	5.688	11.02	9.594	5.56	11.68	11.62
+TCGA-AR-A256-01	TCGA-AR-A256-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	7.441	4.229	12.33	9.633	5.714	11.27	11.43
+TCGA-A7-A0CE-01	TCGA-A7-A0CE-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	7.422	5.194	10.79	10.59	4.978	12.49	11
+TCGA-D8-A27F-01	TCGA-D8-A27F-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	7.42	4.944	10.77	9.702	4.536	11.31	11.88
+TCGA-AR-A0TU-01	TCGA-AR-A0TU-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	6.785	7.9	10.87	9.646	2.428	9.106	12
+TCGA-C8-A1HJ-01	TCGA-C8-A1HJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	6.451	4.633	11.05	9.715	5.391	11.3	11.32
+TCGA-A8-A07C-01	TCGA-A8-A07C-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T2	5.914	3.078	11.2	10.29	3.438	10.22	10.51
+TCGA-A2-A04Q-01	TCGA-A2-A04Q-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	9.821	5.751	9.954	11.53	5.028	10.21	10.99
+TCGA-BH-A0BW-01	TCGA-BH-A0BW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	9.661	5.426	11.21	11.01	7.858	9.924	11.22
+TCGA-BH-A0BG-01	TCGA-BH-A0BG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	9.594	4.312	10.56	11.04	6.226	10.58	10.9
+TCGA-BH-A0B9-01	TCGA-BH-A0B9-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	9.473	7.525	10.72	9.938	4.812	11.22	11.15
+TCGA-BH-A0BL-01	TCGA-BH-A0BL-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	9.453	6.636	11	11.25	3.934	11.91	11.84
+TCGA-D8-A27M-01	TCGA-D8-A27M-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	9.334	6.426	11.01	11.24	5.483	11.51	11.64
+TCGA-E2-A1LH-01	TCGA-E2-A1LH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	9.301	4.229	10.07	11.14	3.124	11.1	12.3
+TCGA-BH-A0E6-01	TCGA-BH-A0E6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	9.106	4.193	10.97	9.583	4.607	11.55	11.23
+TCGA-AO-A0J2-01	TCGA-AO-A0J2-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	8.953	6.405	10.34	9.282	3.255	9.139	10.62
+TCGA-AO-A0J4-01	TCGA-AO-A0J4-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	8.6	4.255	11.23	10.76	5.294	11.87	11.89
+TCGA-BH-A0AV-01	TCGA-BH-A0AV-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	7.848	6.711	10.7	10.86	4.98	12.48	12.57
+TCGA-BH-A18G-01	TCGA-BH-A18G-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	7.73	5.758	10.41	9.661	4.435	10.48	11.51
+TCGA-B6-A0RN-01	TCGA-B6-A0RN-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	6.834	6.268	10.89	9.79	2.998	11.6	10.95
+TCGA-E2-A1LS-01	TCGA-E2-A1LS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	6.75	2.908	11.29	8.644	4.884	9.369	11.15
+TCGA-AR-A1AY-01	TCGA-AR-A1AY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative	Negative	N0	T1	5.857	5.435	10.79	9.034	5.01	11.5	12.1
+TCGA-EW-A1PH-01	TCGA-EW-A1PH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative		N1	T1	9.684	6.041	10.55	9.358	5.093	11.24	10.78
+TCGA-GM-A2DB-01	TCGA-GM-A2DB-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative				10.89	3.419	9.437	9.942	6.309	10.62	11.13
+TCGA-GM-A2DD-01	TCGA-GM-A2DD-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative				10.76	6.127	10.06	11.45	4.81	10.71	11.16
+TCGA-GM-A2DF-01	TCGA-GM-A2DF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative				9.585	3.59	10.49	10.94	6.006	11.22	11.25
+TCGA-GM-A2DI-01	TCGA-GM-A2DI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative				9.262	8.221	10.33	11.96	4.674	11.48	11.45
+TCGA-AO-A1KR-01	TCGA-AO-A1KR-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative				8.482	3.374	10.06	8.759	4.034	11.19	10.24
+TCGA-GM-A2DH-01	TCGA-GM-A2DH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative				8.411	4.941	10.3	10.92	4.034	10.76	10.72
+TCGA-BH-A1F6-01	TCGA-BH-A1F6-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Negative				8.027	4.504	11.09	10.33	4.776	9.033	12.16
+TCGA-AN-A0FZ-01	TCGA-AN-A0FZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Equivocal	N2	T2	9.904	8.108	10.96	9.392	1.005	11.45	10.99
+TCGA-A8-A06R-01	TCGA-A8-A06R-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Equivocal	N1	T2	8.908	5.669	10.67	10.87	1.489	11.22	11.15
+TCGA-AN-A041-01	TCGA-AN-A041-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Equivocal	N1	T2	7.233	6.69	11.08	10.58	4.933	12.33	11.6
+TCGA-C8-A138-01	TCGA-C8-A138-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N2	T2	8.854	5.696	10.59	11.32	3.283	11.24	10.67
+TCGA-A8-A07I-01	TCGA-A8-A07I-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N2	T2	7.382	6.514	10.36	10.73	4.581	11.14	11.02
+TCGA-A8-A09G-01	TCGA-A8-A09G-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N3	T3	8.983	9.509	11.26	10.4	3.113	10.68	9.761
+TCGA-AR-A0TQ-01	TCGA-AR-A0TQ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N1	T3	7.677	7.667	10.95	10.82	1.902	10.49	10.48
+TCGA-BH-A0C7-01	TCGA-BH-A0C7-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N1	T2	8.095	7.41	11.47	10.02	3.182	11.54	11.55
+TCGA-A2-A0EY-01	TCGA-A2-A0EY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N1	T2	8.045	4.773	10.35	10.13	2.102	11.26	10.61
+TCGA-BH-A0AW-01	TCGA-BH-A0AW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N1	T1	8.531	5.104	10.18	11.31	2.853	10.68	10.24
+TCGA-A8-A06X-01	TCGA-A8-A06X-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T3	8.123	5.366	10.84	9.704	6.002	9.459	11.5
+TCGA-AQ-A04L-01	TCGA-AQ-A04L-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T2	8.647	4.924	10.75	9.739	6.365	11	10.18
+TCGA-A2-A0CX-01	TCGA-A2-A0CX-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T2	8.052	5.342	10.56	10.33	2.332	10.87	10.44
+TCGA-A1-A0SM-01	TCGA-A1-A0SM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T2	8.02	7.631	11.36	10.58	2.597	11.65	11.37
+TCGA-EW-A1OZ-01	TCGA-EW-A1OZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T2	7.527	4.269	10.77	9.802	2.779	10.45	10.68
+TCGA-A8-A08B-01	TCGA-A8-A08B-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T2	7.032	5.657	10.45	9.416	2.181	9.168	9.52
+TCGA-AC-A23H-01	TCGA-AC-A23H-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T2	7.004	7.03	11.13	9.343	1.478	11.58	10.67
+TCGA-AR-A250-01	TCGA-AR-A250-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T2	6.987	7.012	10.99	11.23	2.013	11.53	11.04
+TCGA-D8-A1J9-01	TCGA-D8-A1J9-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Positive	N0	T1	6.495	8.015	10.92	10.39	2.446	11.77	11.03
+TCGA-A2-A0YT-01	TCGA-A2-A0YT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T4	7.928	3.802	10.95	9.639	1.988	9.908	10.25
+TCGA-A8-A08L-01	TCGA-A8-A08L-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T3	8.718	6.999	10.66	10.39	4.325	11.07	11.27
+TCGA-A2-A1FW-01	TCGA-A2-A1FW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T3	6.174	4.925	10.73	9.826	0.6721	10.88	10.2
+TCGA-AN-A0AS-01	TCGA-AN-A0AS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T2	8.853	7.127	11.05	10.48	0.5366	11.54	11.27
+TCGA-AR-A251-01	TCGA-AR-A251-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T2	8.833	5.537	11.15	10.16	7.317	10.88	11.01
+TCGA-AR-A0TT-01	TCGA-AR-A0TT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T2	8.443	4.274	9.845	11.59	4.824	11.31	10.12
+TCGA-AN-A0XO-01	TCGA-AN-A0XO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T2	7.153	9.044	11.5	9.168	3.786	11.32	11.07
+TCGA-AN-A0FJ-01	TCGA-AN-A0FJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T2	6.653	8.802	10.83	10.24	4.293	10.98	12.33
+TCGA-AN-A0XT-01	TCGA-AN-A0XT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T2	6.596	5.078	11.29	9.187	4.923	10.8	10.15
+TCGA-AN-A0XR-01	TCGA-AN-A0XR-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T2	6.229	8.444	10.68	8.699	5.09	9.069	10.28
+TCGA-BH-A1FM-01	TCGA-BH-A1FM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T2	5.176	8.264	12.34	10.8	2.092	11.44	11
+TCGA-D8-A1XZ-01	TCGA-D8-A1XZ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N2	T1	6.915	5.16	11.48	10.18	3.543	11.21	9.671
+TCGA-A8-A08J-01	TCGA-A8-A08J-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N3	T4	7.16	5.888	11.36	10.26	1.221	11.16	10.55
+TCGA-E9-A1R2-01	TCGA-E9-A1R2-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N3	T2	7.388	8.144	10.95	10.08	3.141	10.77	11.1
+TCGA-D8-A1XG-01	TCGA-D8-A1XG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T4	7.095	4.108	11.19	9.137	4.171	11.86	10.34
+TCGA-BH-A1FH-01	TCGA-BH-A1FH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T2	8.905	8.059	11.31	11.12	4.739	12.74	12.85
+TCGA-BH-A0HK-01	TCGA-BH-A0HK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T2	8.428	4.498	10.86	10.05	4.43	11.21	10.23
+TCGA-AR-A1AH-01	TCGA-AR-A1AH-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T2	8.274	4.401	11.28	8.369	4.613	10.53	10.2
+TCGA-BH-A0BM-01	TCGA-BH-A0BM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T2	8.249	5.897	11.02	10.15	4.891	11.3	10.23
+TCGA-E2-A15S-01	TCGA-E2-A15S-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T2	7.547	5.406	11.36	8.428	3.996	11.26	9.73
+TCGA-A8-A084-01	TCGA-A8-A084-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T2	6.922	7.734	10.92	9.356	1.349	11.14	10.63
+TCGA-D8-A1JM-01	TCGA-D8-A1JM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T2	6.761	5.905	11.05	9.348	5.575	13.4	11.93
+TCGA-E2-A155-01	TCGA-E2-A155-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T2	5.801	3.586	11.74	8.368	4.95	11.15	10.42
+TCGA-AR-A1AO-01	TCGA-AR-A1AO-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T1	8.98	7.271	10.15	11.76	3.566	11.4	11.64
+TCGA-AO-A0JI-01	TCGA-AO-A0JI-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N1	T1	6.158	4.397	11.26	9.089	3.979	10.35	9.752
+TCGA-A8-A06N-01	TCGA-A8-A06N-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T4	5.627	4.649	10.7	7.445	3.472	8.889	10.01
+TCGA-AR-A24Q-01	TCGA-AR-A24Q-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T3	8.453	6.484	12.02	10.98	4.418	11.7	11.66
+TCGA-A7-A0D9-01	TCGA-A7-A0D9-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	9.134	7.143	11.35	10.1	2.758	11.8	10.75
+TCGA-AN-A0AM-01	TCGA-AN-A0AM-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	8.873	6.737	9.948	9.897	4.763	9.648	10.45
+TCGA-AR-A0TP-01	TCGA-AR-A0TP-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	8.036	4.171	11.61	9.909	4.679	11.88	11.12
+TCGA-BH-A0DG-01	TCGA-BH-A0DG-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	7.904	6.801	10.76	11.01	3.016	11.72	11.8
+TCGA-A8-A091-01	TCGA-A8-A091-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	7.895	5.371	11.08	9.73	1.977	11.61	10.61
+TCGA-A8-A094-01	TCGA-A8-A094-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	7.815	4.054	10.83	10.68	3.459	10.38	9.595
+TCGA-E9-A22A-01	TCGA-E9-A22A-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	7.813	7.298	11.36	11.47	3.014	10.13	10.07
+TCGA-E2-A109-01	TCGA-E2-A109-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	7.549	7.732	10.45	9.863	2.567	10.94	10.55
+TCGA-AR-A0TY-01	TCGA-AR-A0TY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	6.856	5.137	10.97	9.068	1.553	9.97	10.02
+TCGA-A2-A0CT-01	TCGA-A2-A0CT-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	6.738	5.42	10.51	9.081	0.504	10.07	9.665
+TCGA-AN-A0AK-01	TCGA-AN-A0AK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T2	6.109	1.815	10.83	9.142	0	9.699	8.698
+TCGA-AR-A1AJ-01	TCGA-AR-A1AJ-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T1	9.809	6.334	10.54	11.66	5.59	10.83	11.18
+TCGA-A2-A0YF-01	TCGA-A2-A0YF-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T1	8.452	4.527	11.61	9.979	4.56	10.87	9.367
+TCGA-BH-A18P-01	TCGA-BH-A18P-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T1	6.33	5.315	11.32	9.659	3.344	11.32	10.32
+TCGA-BH-A0HW-01	TCGA-BH-A0HW-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T1	6.294	4.21	11.48	7.734	3.686	9.762	9.58
+TCGA-A7-A0DC-01	TCGA-A7-A0DC-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive	Negative	N0	T1	3.757	2.948	11.1	6.499	1.906	9.502	9.502
+TCGA-B6-A1KC-01	TCGA-B6-A1KC-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive		N1	T2	5.811	5.835	11.16	9.322	3.728	11.03	9.239
+TCGA-C8-A12M-01	TCGA-C8-A12M-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive		N0	T2	6.576	4.905	11.67	9.511	3.737	11.27	11.08
+TCGA-BH-A0HY-01	TCGA-BH-A0HY-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive		N0	T1	7.516	7.388	11.06	9.253	2.335	10.99	11.36
+TCGA-GM-A2DK-01	TCGA-GM-A2DK-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive				9.124	10.65	10.52	10.16	3.26	10.92	10.18
+TCGA-EW-A2FS-01	TCGA-EW-A2FS-01	Primary Tumor	Infiltrating Ductal Carcinoma	Negative	Positive				7.272	7.047	10.93	10.48	3.195	10.38	9.924
+TCGA-E9-A1N8-01	TCGA-E9-A1N8-01	Primary Tumor	Infiltrating Ductal Carcinoma		Negative	Negative	N0	T2	8.823	3.87	10.89	9.663	6.071	11.49	10.99
+TCGA-E9-A228-01	TCGA-E9-A228-01	Primary Tumor	Infiltrating Ductal Carcinoma			Positive	N1	T2	6.213	7.487	11.24	9.479	2.56	10.6	9.909
+TCGA-C8-A275-01	TCGA-C8-A275-01	Primary Tumor	Infiltrating Ductal Carcinoma			Positive	N1	T1	7.695	7.269	10.7	10.92	4.927	10.54	9.588
+TCGA-E9-A1RF-01	TCGA-E9-A1RF-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N2	T2	7.639	6.957	11.07	10.71	2.249	10.51	11.24
+TCGA-E9-A1RE-01	TCGA-E9-A1RE-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N2	T2	6.354	5.653	10.98	9.455	0.907	11.18	10.31
+TCGA-E9-A1RG-01	TCGA-E9-A1RG-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N2	T1	9.165	4.89	10.73	9.517	2.232	10.42	9.853
+TCGA-E9-A1R3-01	TCGA-E9-A1R3-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N3	T2	8.118	6.879	10.4	10.67	3.617	11.81	11.68
+TCGA-C8-A12K-01	TCGA-C8-A12K-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N1	T2	10.01	4.537	10.57	11.35	7.443	11.23	10.72
+TCGA-E9-A245-01	TCGA-E9-A245-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N1	T2	9.214	5.289	10.53	8.845	3.243	11.05	10.43
+TCGA-C8-A12Y-01	TCGA-C8-A12Y-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N1	T2	8.858	8.038	10.66	9.552	3.488	9.799	10.16
+TCGA-E9-A1R0-01	TCGA-E9-A1R0-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N1	T1	8.349	8.488	11.18	10.02	4.305	10.87	10.56
+TCGA-E9-A24A-01	TCGA-E9-A24A-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N1	T1	7.932	8.11	10.92	10.87	4.954	11.45	10.72
+TCGA-E9-A1RH-01	TCGA-E9-A1RH-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	10.1	8.446	10.62	10.04	0	10.9	11.95
+TCGA-E9-A1QZ-01	TCGA-E9-A1QZ-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	9.195	5.905	11.18	11	2.998	10.17	10.29
+TCGA-E9-A1R7-01	TCGA-E9-A1R7-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	8.108	5.106	10.75	8.98	2.804	11.22	10.19
+TCGA-E9-A248-01	TCGA-E9-A248-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	7.851	3.768	10.56	11.67	4.208	10.89	11.24
+TCGA-E9-A1RB-01	TCGA-E9-A1RB-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	7.708	10.45	11.18	9.371	3.668	10.86	10.33
+TCGA-E9-A1RD-01	TCGA-E9-A1RD-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	7.609	6.206	10.98	9.821	1.347	10.38	10.38
+TCGA-E9-A1R6-01	TCGA-E9-A1R6-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	7.443	5.31	10.82	9.142	3.053	10.77	10.47
+TCGA-A7-A0CH-01	TCGA-A7-A0CH-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	7.126	6.344	11	9.554	3.405	10.82	10.86
+TCGA-E9-A249-01	TCGA-E9-A249-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	6.425	10.23	11.44	8.994	3.656	10.17	9.37
+TCGA-E9-A244-01	TCGA-E9-A244-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T2	6.161	4.432	11.65	9.648	4.246	10.31	11.07
+TCGA-B6-A0I2-01	TCGA-B6-A0I2-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T1	10.19	2.462	10.73	11.28	3.948	8.894	10.52
+TCGA-E9-A1R4-01	TCGA-E9-A1R4-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T1	9.365	7.598	10.35	11.44	3.398	11.06	10.08
+TCGA-E9-A1R5-01	TCGA-E9-A1R5-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T1	8.193	6.814	11.75	9.893	1.569	11.75	11.45
+TCGA-E9-A229-01	TCGA-E9-A229-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T1	7.704	9.009	11	11.02	3.482	12.12	11.78
+TCGA-E9-A1RA-01	TCGA-E9-A1RA-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T1	7.593	9.614	11.53	9.869	5.065	11.31	10.87
+TCGA-E9-A247-01	TCGA-E9-A247-01	Primary Tumor	Infiltrating Ductal Carcinoma			Negative	N0	T1	6.293	4.854	12.16	8.885	6.563	9.97	10.41
+TCGA-OL-A66P-01	TCGA-OL-A66P-01	Primary Tumor	Infiltrating Ductal Carcinoma						11.65	5.742	9.135	11.14	2.201	9.69	8.841
+TCGA-AQ-A54N-01	TCGA-AQ-A54N-01	Primary Tumor	Infiltrating Ductal Carcinoma						11.2	0.7515	10.09	7.648	4.282	11.58	9.823
+TCGA-OL-A5D6-01	TCGA-OL-A5D6-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.8	6.09	10.38	10.06	2.615	11.65	11.96
+TCGA-A2-A3XZ-01	TCGA-A2-A3XZ-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.76	6.295	10.75	10.69	2.98	10.86	9.441
+TCGA-OL-A66I-01	TCGA-OL-A66I-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.75	5.991	10.51	11.35	5.615	10.59	9.964
+TCGA-GM-A3XL-01	TCGA-GM-A3XL-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.67	3.271	10.27	9.602	6.148	9.94	9.447
+TCGA-OL-A5D7-01	TCGA-OL-A5D7-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.64	3.525	9.844	10.52	6.762	11.02	9.422
+TCGA-A2-A3XT-01	TCGA-A2-A3XT-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.59	3.357	10.72	10.36	5.477	10.62	10.58
+TCGA-OL-A5RY-01	TCGA-OL-A5RY-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.52	6.535	9.774	11.21	1.014	10.91	11
+TCGA-OL-A66L-01	TCGA-OL-A66L-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.46	6.23	10.18	9.824	3.325	10.51	9.849
+TCGA-LL-A5YN-01	TCGA-LL-A5YN-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.39	5.366	9.954	10.77	2.048	9.425	8.927
+TCGA-LL-A740-01	TCGA-LL-A740-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.29	6.423	10.91	10.14	1.145	11.72	11.68
+TCGA-LL-A5YO-01	TCGA-LL-A5YO-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.19	5.244	9.93	11.5	4.176	10.41	9.543
+TCGA-E2-A573-01	TCGA-E2-A573-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.18	6.022	10.5	10.66	4.687	10.09	11.08
+TCGA-PL-A8LZ-01	TCGA-PL-A8LZ-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.08	5.478	10.14	11.43	6.337	10.73	11.17
+TCGA-BH-A0B6-01	TCGA-BH-A0B6-01	Primary Tumor	Infiltrating Ductal Carcinoma						10.06	6.066	10.25	11.56	4.113	10.25	9.679
+TCGA-WT-AB41-01	TCGA-WT-AB41-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.929	4.068	10.33	10.7	3.387	9.807	9
+TCGA-LL-A7SZ-01	TCGA-LL-A7SZ-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.917	4.407	9.224	10.26	1.921	10.27	9.75
+TCGA-LL-A6FR-01	TCGA-LL-A6FR-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.9	4.949	10.06	9.759	2.973	10.9	10.16
+TCGA-A2-A3XV-01	TCGA-A2-A3XV-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.888	4.347	9.816	8.599	0.5161	9.529	8.69
+TCGA-E2-A572-01	TCGA-E2-A572-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.816	6.118	10.32	8.684	3.523	7.731	8.411
+TCGA-LL-A442-01	TCGA-LL-A442-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.798	3.093	10.98	9.561	4.668	10.95	9.364
+TCGA-LD-A9QF-01	TCGA-LD-A9QF-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.778	7.501	10.5	11.56	2.146	11.26	11.24
+TCGA-S3-AA15-01	TCGA-S3-AA15-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.774	6.159	9.705	11.32	4.885	11.59	11.79
+TCGA-A7-A6VW-01	TCGA-A7-A6VW-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.743	5.058	9.965	8.662	5.964	9.731	11.42
+TCGA-UU-A93S-01	TCGA-UU-A93S-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.73	3.476	10.28	8.557	5.005	7.35	7.607
+TCGA-A7-A6VY-01	TCGA-A7-A6VY-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.727	5.3	10.14	10.07	5.125	10.85	10.99
+TCGA-LL-A441-01	TCGA-LL-A441-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.686	4.584	11.05	11.72	3.862	11.17	10.46
+TCGA-E2-A574-01	TCGA-E2-A574-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.667	2.951	10.12	8.678	5.807	9.997	9.622
+TCGA-LD-A7W5-01	TCGA-LD-A7W5-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.615	4.961	10.37	11.07	3.573	10.76	10.49
+TCGA-V7-A7HQ-01	TCGA-V7-A7HQ-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.603	5.443	10.09	9.429	2.231	10.21	9.58
+TCGA-A2-A3XW-01	TCGA-A2-A3XW-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.599	7.882	9.354	9.451	3.744	11.5	9.94
+TCGA-PL-A8LX-01	TCGA-PL-A8LX-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.588	4.051	10.53	8.8	4.394	10.39	9.571
+TCGA-A2-A3Y0-01	TCGA-A2-A3Y0-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.571	4.642	11.13	9.633	3.918	10.41	8.958
+TCGA-B6-A400-01	TCGA-B6-A400-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.522	4.849	10.07	10.16	5.666	11.6	11.11
+TCGA-EW-A3U0-01	TCGA-EW-A3U0-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.515	4.485	10.07	11.74	6.139	11.22	11.8
+TCGA-LL-A8F5-01	TCGA-LL-A8F5-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.503	4.424	10.4	9.652	4.424	10.82	11.05
+TCGA-AQ-A54O-01	TCGA-AQ-A54O-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.481	5.638	10.57	9.469	2.828	9.73	9.733
+TCGA-PL-A8LY-01	TCGA-PL-A8LY-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.479	7.222	10.27	8.618	3.876	10.05	10.62
+TCGA-A7-A56D-01	TCGA-A7-A56D-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.451	6.488	9.756	9.784	2.323	10.41	9.498
+TCGA-AC-A6IW-01	TCGA-AC-A6IW-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.45	2.37	9.942	10.97	6.122	9.814	10.91
+TCGA-AC-A8OQ-01	TCGA-AC-A8OQ-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.352	6.524	10.21	10.78	4.633	11.89	11.16
+TCGA-OL-A5RU-01	TCGA-OL-A5RU-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.321	5.77	10.53	10.6	3.758	10.46	9.802
+TCGA-S3-AA10-01	TCGA-S3-AA10-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.255	4.065	10.27	11.18	3.826	10.66	10.5
+TCGA-B6-A401-01	TCGA-B6-A401-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.075	9.425	11.04	10.08	4.005	11.06	10.24
+TCGA-BH-A5J0-01	TCGA-BH-A5J0-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.073	7.498	9.807	10.32	4.48	11	10.51
+TCGA-LL-A5YP-01	TCGA-LL-A5YP-01	Primary Tumor	Infiltrating Ductal Carcinoma						9.007	5.955	10.87	10.49	5.144	11.64	11.28
+TCGA-A7-A4SD-01	TCGA-A7-A4SD-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.983	5.102	10.49	10.55	4.453	11.37	11.37
+TCGA-GI-A2C9-01	TCGA-GI-A2C9-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.903	4.74	11.19	10.5	6.325	10.27	11.13
+TCGA-AC-A5EH-01	TCGA-AC-A5EH-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.813	7.251	11.13	10.3	3.827	11.69	11.95
+TCGA-A7-A6VV-01	TCGA-A7-A6VV-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.76	5.097	10.55	10.31	2.723	12.21	12.12
+TCGA-AC-A8OP-01	TCGA-AC-A8OP-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.74	6.791	11.18	10.04	3.905	11.84	10.99
+TCGA-B6-A409-01	TCGA-B6-A409-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.738	2.679	11.04	8.875	2.999	10.34	10.51
+TCGA-S3-AA17-01	TCGA-S3-AA17-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.735	4.359	10.65	11.34	4.418	10.88	10.12
+TCGA-GI-A2C8-01	TCGA-GI-A2C8-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.73	6.591	11.51	10.84	2.12	11.57	10.88
+TCGA-EW-A1PC-01	TCGA-EW-A1PC-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.715	5.826	9.939	9.188	3.313	10.41	10.57
+TCGA-EW-A6SD-01	TCGA-EW-A6SD-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.703	5.092	10.62	10.39	2.376	10.31	10.2
+TCGA-OL-A5S0-01	TCGA-OL-A5S0-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.689	5.479	10.41	9.889	5.604	10.78	10.83
+TCGA-BH-A42V-01	TCGA-BH-A42V-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.681	6.521	10.51	10.17	3.986	11.04	10.63
+TCGA-LL-A73Y-01	TCGA-LL-A73Y-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.661	6.663	10.7	10.82	2.517	12.39	11.6
+TCGA-3C-AALJ-01	TCGA-3C-AALJ-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.647	4.671	10.3	10.39	2.468	11.29	11.24
+TCGA-LL-A6FQ-01	TCGA-LL-A6FQ-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.611	5.066	10.6	8.715	2.514	9.887	9.137
+TCGA-EW-A6SB-01	TCGA-EW-A6SB-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.467	2.251	10.43	10.8	4.438	10.37	9.795
+TCGA-A7-A4SE-01	TCGA-A7-A4SE-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.351	6.325	11.01	10.63	5.154	11.19	11.35
+TCGA-3C-AALK-01	TCGA-3C-AALK-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.35	6.666	10.46	10.51	3.873	11.72	11.36
+TCGA-OL-A5RX-01	TCGA-OL-A5RX-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.323	7.795	11.26	9.811	3.874	10.89	10.56
+TCGA-3C-AALI-01	TCGA-3C-AALI-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.283	4.608	10.75	10.18	2.912	10.57	9.509
+TCGA-AC-A62V-01	TCGA-AC-A62V-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.259	5.028	9.586	9.065	3.708	10.49	9.722
+TCGA-S3-A6ZF-01	TCGA-S3-A6ZF-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.247	7.208	10.75	10.06	3.396	10.89	10.39
+TCGA-A2-A3XX-01	TCGA-A2-A3XX-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.181	4.286	10.47	9.686	6.74	11.26	11.18
+TCGA-UL-AAZ6-01	TCGA-UL-AAZ6-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.176	3.033	10.08	8.548	3.865	9.522	9.573
+TCGA-E2-A56Z-01	TCGA-E2-A56Z-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.118	4.739	10.91	9.163	2.575	9.582	9.224
+TCGA-AR-A24W-01	TCGA-AR-A24W-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.086	6.946	11.17	10.23	6.26	11.63	11.47
+TCGA-A2-A4S3-01	TCGA-A2-A4S3-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.08	4.883	10.82	10.16	2.08	9.942	9.742
+TCGA-AC-A62X-01	TCGA-AC-A62X-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.068	3.922	10.7	7.445	4.894	9.604	9.615
+TCGA-E2-A9RU-01	TCGA-E2-A9RU-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.066	6.878	10.71	9.141	4.158	9.693	9.937
+TCGA-A7-A5ZW-01	TCGA-A7-A5ZW-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.035	7.11	11.16	10.76	3.605	11.64	10.96
+TCGA-EW-A2FR-01	TCGA-EW-A2FR-01	Primary Tumor	Infiltrating Ductal Carcinoma						8.007	7.818	10.92	11.5	2.293	13.23	12.29
+TCGA-OL-A5RW-01	TCGA-OL-A5RW-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.952	8.401	10.82	8.709	5.498	9.769	10.26
+TCGA-S3-AA0Z-01	TCGA-S3-AA0Z-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.95	6.069	9.446	10.79	6.379	13.65	12.09
+TCGA-A7-A6VX-01	TCGA-A7-A6VX-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.932	7.186	10.33	9.835	2.717	11.14	10.68
+TCGA-LL-A7T0-01	TCGA-LL-A7T0-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.905	4.698	10.46	9.398	3.011	10.68	10.11
+TCGA-OL-A5RV-01	TCGA-OL-A5RV-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.864	7.314	11	9.269	3.964	11.3	10.5
+TCGA-OL-A5D8-01	TCGA-OL-A5D8-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.772	6.767	10.64	9.733	2.929	10.13	9.414
+TCGA-BH-A208-01	TCGA-BH-A208-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.762	8.378	11.26	11.66	3.072	13.23	12.82
+TCGA-EW-A6S9-01	TCGA-EW-A6S9-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.731	6.318	11.08	10.27	3.684	10.61	11.24
+TCGA-S3-AA14-01	TCGA-S3-AA14-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.639	6.597	10.29	10.4	2.462	12.17	11.91
+TCGA-BH-A203-01	TCGA-BH-A203-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.623	4.347	10.9	10.36	2.673	10.49	11.01
+TCGA-OL-A66O-01	TCGA-OL-A66O-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.614	6.497	10.45	8.694	0	10.41	9.488
+TCGA-AC-A2BM-01	TCGA-AC-A2BM-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.511	6.992	11.5	10.32	1.911	9.796	9.962
+TCGA-S3-A6ZH-01	TCGA-S3-A6ZH-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.491	5.866	11.32	9.123	2.594	10.19	9.804
+TCGA-E2-A570-01	TCGA-E2-A570-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.437	7.028	11.36	10.42	4.617	11.15	10.55
+TCGA-AC-A6NO-01	TCGA-AC-A6NO-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.435	7.127	10.96	9.172	3.852	10.89	10.14
+TCGA-AC-A7VB-01	TCGA-AC-A7VB-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.416	4.726	10.63	7.846	5.014	9.538	9.802
+TCGA-A7-A2KD-01	TCGA-A7-A2KD-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.384	7.662	11.45	10.77	3.333	10.93	10.3
+TCGA-S3-AA11-01	TCGA-S3-AA11-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.273	5.751	10.65	8.541	3.096	10.52	10.38
+TCGA-AC-A5XU-01	TCGA-AC-A5XU-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.254	5.039	10.61	9.734	3.134	11.23	10.49
+TCGA-AC-A2BK-01	TCGA-AC-A2BK-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.25	0.9704	10.8	10.4	4.849	9.952	11.37
+TCGA-A7-A4SF-01	TCGA-A7-A4SF-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.222	4.397	10.81	9.185	1.921	9.579	9.795
+TCGA-BH-A6R8-01	TCGA-BH-A6R8-01	Primary Tumor	Infiltrating Ductal Carcinoma						7.083	5.394	10.96	9.405	3.548	8.88	9.417
+TCGA-OL-A5RZ-01	TCGA-OL-A5RZ-01	Primary Tumor	Infiltrating Ductal Carcinoma						6.975	2.486	10.75	8.252	1.016	10.85	8.781
+TCGA-BH-A5IZ-01	TCGA-BH-A5IZ-01	Primary Tumor	Infiltrating Ductal Carcinoma						6.952	4.036	11.15	9.171	6.669	12.03	11.05
+TCGA-OL-A6VR-01	TCGA-OL-A6VR-01	Primary Tumor	Infiltrating Ductal Carcinoma						6.69	12.7	10.65	7.813	3.424	10.06	9.707
+TCGA-OL-A6VO-01	TCGA-OL-A6VO-01	Primary Tumor	Infiltrating Ductal Carcinoma						6.555	6.326	10.56	10.3	6.992	10.17	11.31
+TCGA-S3-AA12-01	TCGA-S3-AA12-01	Primary Tumor	Infiltrating Ductal Carcinoma						5.982	6.6	11.13	8.374	3.728	10.16	9.957
+TCGA-BH-A204-01	TCGA-BH-A204-01	Primary Tumor	Infiltrating Ductal Carcinoma						5.776	7.385	12.22	9.153	3.397	11.54	9.695
+TCGA-EW-A6SA-01	TCGA-EW-A6SA-01	Primary Tumor	Infiltrating Ductal Carcinoma						5.474	3.079	10.7	7.83	2.037	10.83	10.19
+TCGA-D8-A1X8-01	TCGA-D8-A1X8-01	Primary Tumor	Infiltrating Lobular Carcinoma	Indeterminate	Positive	Negative	N2	T1	8.784	6.25	11.05	10.32	2.681	11.07	10.63
+TCGA-A2-A0SY-01	TCGA-A2-A0SY-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Positive	N1	T3	8.215	6.26	11.08	10.6	3.901	11.05	10.86
+TCGA-EW-A1IW-01	TCGA-EW-A1IW-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Positive	N1	T2	7.665	5.914	11.29	10.2	4.027	11.04	10.55
+TCGA-AR-A1AT-01	TCGA-AR-A1AT-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Positive	N0	T2	8.102	6.614	10.47	10.6	2.745	10.07	9.693
+TCGA-EW-A1J3-01	TCGA-EW-A1J3-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Positive	N0	T1	6.106	5.696	11.39	10.06	4.092	10.65	10.17
+TCGA-A2-A0YL-01	TCGA-A2-A0YL-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N2	T3	7.778	7.35	11.03	10.61	4.974	11.47	11.96
+TCGA-BH-A0C1-01	TCGA-BH-A0C1-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N2	T3	7.362	7.342	11.54	10.51	4.015	11.24	11.46
+TCGA-BH-A0B5-01	TCGA-BH-A0B5-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N2	T2	7.848	8.416	11.09	10.53	3.701	12.1	11.65
+TCGA-D8-A27I-01	TCGA-D8-A27I-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N2	T1	8.544	8.369	11.01	10.86	3.523	11.81	12.06
+TCGA-AR-A24T-01	TCGA-AR-A24T-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N3	T3	7.699	8.094	11.63	11.28	4.996	12.36	12.08
+TCGA-D8-A1JN-01	TCGA-D8-A1JN-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N3	T3	7.29	4.371	10.79	8.954	3.294	9.964	8.418
+TCGA-D8-A27T-01	TCGA-D8-A27T-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N3	T2	8.423	8.141	11.17	11.05	3.538	11.29	11.19
+TCGA-A8-A0A6-01	TCGA-A8-A0A6-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N3	T2	7.678	7.254	11.34	10.82	3.783	10.91	9.739
+TCGA-A8-A09W-01	TCGA-A8-A09W-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N3	T2	5.988	5.291	9.967	9.818	3.718	10.9	9.628
+TCGA-B6-A0IH-01	TCGA-B6-A0IH-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T3	8.532	7.068	11.16	10.75	3.577	11.02	11.82
+TCGA-AR-A1AL-01	TCGA-AR-A1AL-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T3	7.808	8.197	10.97	10.39	3.715	11.83	11.35
+TCGA-A7-A26E-01	TCGA-A7-A26E-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T3	6.689	6.589	11.6	10.3	3.247	11.74	10.7
+TCGA-AO-A0JJ-01	TCGA-AO-A0JJ-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T2	8.91	7.868	10.98	11.25	4.354	11.36	11.04
+TCGA-BH-A0E9-01	TCGA-BH-A0E9-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T2	7.967	8.828	11.04	9.979	5.418	11.19	10.81
+TCGA-D8-A1XO-01	TCGA-D8-A1XO-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T2	7.61	7.184	11.59	10.68	3.818	11.75	11.3
+TCGA-EW-A1PG-01	TCGA-EW-A1PG-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T2	7.143	6.084	11.35	10.31	2.578	12.32	11.44
+TCGA-E2-A1L8-01	TCGA-E2-A1L8-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T2	6.993	5.427	11.16	10.38	3.566	11.16	10.36
+TCGA-E2-A1IL-01	TCGA-E2-A1IL-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T1	7.749	7.152	11.18	9.782	4.307	11.65	11.34
+TCGA-EW-A1J2-01	TCGA-EW-A1J2-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N1	T1	7.601	8.109	11.25	10.69	4.664	11.82	11.17
+TCGA-AO-A12E-01	TCGA-AO-A12E-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T3	8.635	4.143	11.38	10.1	4.407	10.77	10.09
+TCGA-A2-A0YD-01	TCGA-A2-A0YD-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T3	8.378	10.15	11.3	10.95	6.154	12.39	11.54
+TCGA-AO-A1KO-01	TCGA-AO-A1KO-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T3	8.375	5.846	11.34	10.01	4.42	11.02	11.97
+TCGA-A2-A0T6-01	TCGA-A2-A0T6-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T3	8.354	8.171	11.3	11.09	2.753	12.33	11.53
+TCGA-EW-A1J5-01	TCGA-EW-A1J5-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T3	8.329	6.662	10.94	11.14	4.356	10.35	9.808
+TCGA-BH-A0DP-01	TCGA-BH-A0DP-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T3	8.085	9.934	12.13	10.46	4.693	11.41	11.28
+TCGA-B6-A0RQ-01	TCGA-B6-A0RQ-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T3	7.731	3.076	10.72	8.874	5.388	10.61	10.88
+TCGA-A2-A1FV-01	TCGA-A2-A1FV-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T3	5.679	4.946	12.28	9.472	5.893	11.27	10.98
+TCGA-E2-A1B5-01	TCGA-E2-A1B5-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	9.411	6.973	10.29	11.99	3.377	10.01	10.51
+TCGA-D8-A27G-01	TCGA-D8-A27G-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.873	7.412	10.88	10.75	3.99	12.15	11.6
+TCGA-A2-A0EN-01	TCGA-A2-A0EN-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.788	6.183	10.93	11.59	2.988	11.95	10.87
+TCGA-A2-A0T4-01	TCGA-A2-A0T4-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.781	7.265	10.8	10.49	3.492	11.41	11.14
+TCGA-AO-A0J8-01	TCGA-AO-A0J8-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.779	8.159	10.9	9.858	4.36	10.47	10.36
+TCGA-A2-A0ES-01	TCGA-A2-A0ES-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.696	6.364	11.13	10.27	5.196	11.29	11.51
+TCGA-A2-A25A-01	TCGA-A2-A25A-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.34	9.448	11.07	11.05	4.55	11.67	11.6
+TCGA-A8-A0A4-01	TCGA-A8-A0A4-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.225	5.477	10.36	10.01	5.359	10.94	10.62
+TCGA-E2-A15M-01	TCGA-E2-A15M-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.212	9.32	10.8	11.7	3.177	11.2	10.77
+TCGA-A8-A0A1-01	TCGA-A8-A0A1-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	8.031	6.3	10.23	10.89	4.529	11.74	10.98
+TCGA-E2-A10F-01	TCGA-E2-A10F-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	7.931	8.542	11.13	10.81	4.391	11.41	11.05
+TCGA-E2-A15L-01	TCGA-E2-A15L-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	7.757	8.427	11.26	10.01	2.173	12.16	11.42
+TCGA-A8-A0A2-01	TCGA-A8-A0A2-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	7.211	6.53	11.19	10.21	2.786	11.39	10.73
+TCGA-D8-A27V-01	TCGA-D8-A27V-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	6.97	6.415	10.94	10.34	4.219	11.54	10.8
+TCGA-A8-A09V-01	TCGA-A8-A09V-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	6.959	7.509	11.27	10.05	4.914	12.22	11.02
+TCGA-AR-A24H-01	TCGA-AR-A24H-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	6.486	3.303	10.89	9.824	2.378	9.481	8.549
+TCGA-A8-A0AB-01	TCGA-A8-A0AB-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	6.301	5.478	11.42	8.827	3.625	11.46	11.04
+TCGA-AO-A1KS-01	TCGA-AO-A1KS-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T2	4.448	5.769	11.71	10.21	2.312	10.29	10.05
+TCGA-AR-A1AK-01	TCGA-AR-A1AK-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T1	9.263	7.094	10.71	11.12	4.739	11.34	10.69
+TCGA-AN-A0FN-01	TCGA-AN-A0FN-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T1	8.857	7.787	10.89	12.07	3.922	12.34	11.73
+TCGA-E2-A1IJ-01	TCGA-E2-A1IJ-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T1	8.261	7.971	10.88	11.04	3.723	11.83	11.27
+TCGA-E2-A1IH-01	TCGA-E2-A1IH-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T1	7.802	6.669	11.47	11.71	4.348	11.81	10.99
+TCGA-B6-A0IP-01	TCGA-B6-A0IP-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T1	7.536	5.62	10.79	9.537	3.609	10.62	10.34
+TCGA-A8-A09T-01	TCGA-A8-A09T-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive	Negative	N0	T1	7.255	6.181	10.99	9.483	3.763	11.04	10.64
+TCGA-GM-A2DO-01	TCGA-GM-A2DO-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive				9.495	3.885	10.13	12.45	2.566	9.614	9.646
+TCGA-BH-A28Q-01	TCGA-BH-A28Q-01	Primary Tumor	Infiltrating Lobular Carcinoma	Positive	Positive				8.006	7.633	11.56	10.13	3.846	11.73	11.09
+TCGA-A8-A0A7-01	TCGA-A8-A0A7-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Negative	Positive	N1	T2	9.216	6.065	10.87	11.97	4.523	11.25	10.46
+TCGA-A8-A09X-01	TCGA-A8-A09X-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Negative	Negative	N3	T2	9.617	4.168	10.08	10.76	4.064	10.96	10.12
+TCGA-E2-A1LG-01	TCGA-E2-A1LG-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Negative	Negative	N0	T2	6.281	7.932	11.69	8.503	1.655	11.89	11.94
+TCGA-E2-A107-01	TCGA-E2-A107-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Positive	Negative	N2	T3	8.021	4.381	11.14	8.599	4.076	10.62	9.64
+TCGA-BH-A0HP-01	TCGA-BH-A0HP-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Positive	Negative	N2	T3	7.898	6.673	11.02	10.28	4.367	10.86	10.54
+TCGA-A2-A25D-01	TCGA-A2-A25D-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Positive	Negative	N3	T2	8.284	4.456	10.74	10.83	4.054	10.68	9.558
+TCGA-A8-A09Z-01	TCGA-A8-A09Z-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Positive	Negative	N0	T3	8.446	1.651	11.41	10.11	4.29	9.056	9.304
+TCGA-A2-A0YK-01	TCGA-A2-A0YK-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Positive	Negative	N0	T2	9.135	6.33	10.67	11.65	4.109	11.54	11.5
+TCGA-AN-A0FS-01	TCGA-AN-A0FS-01	Primary Tumor	Infiltrating Lobular Carcinoma	Negative	Positive	Negative	N0	T1	7.99	7.88	11.06	10.12	4.303	11.41	11.46
+TCGA-AC-A3QP-01	TCGA-AC-A3QP-01	Primary Tumor	Infiltrating Lobular Carcinoma						11.23	7.041	10.63	10.16	2.482	10.95	10.09
+TCGA-A2-A0CR-01	TCGA-A2-A0CR-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.94	6.122	9.857	11.28	4.235	10.32	10.14
+TCGA-AC-A3W5-01	TCGA-AC-A3W5-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.8	6.935	10.45	11.08	3.865	11.9	11.51
+TCGA-GM-A4E0-01	TCGA-GM-A4E0-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.68	6.115	10.41	11.19	2.434	11.12	10.66
+TCGA-JL-A3YW-01	TCGA-JL-A3YW-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.64	6.696	10.5	11.12	4.845	11.65	11.43
+TCGA-E9-A2JT-01	TCGA-E9-A2JT-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.52	5.186	9.949	12.85	4.17	10.44	9.402
+TCGA-A7-A4SA-01	TCGA-A7-A4SA-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.51	8.09	9.785	10.82	3.716	11.88	10.87
+TCGA-E9-A5FK-01	TCGA-E9-A5FK-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.45	6.42	10.32	10.9	3.767	9.862	9.836
+TCGA-E9-A3X8-01	TCGA-E9-A3X8-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.37	7.325	10.3	10.51	3.725	10.66	10.15
+TCGA-BH-A42U-01	TCGA-BH-A42U-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.3	6.103	10.15	10.14	4.38	10.79	10.32
+TCGA-A2-A0EP-01	TCGA-A2-A0EP-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.17	6.341	10.47	11.88	3.62	11.84	11.1
+TCGA-AC-A8OS-01	TCGA-AC-A8OS-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.12	7.548	10.93	10.71	4.18	11.64	10.86
+TCGA-AR-A2LJ-01	TCGA-AR-A2LJ-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.06	6.826	10	10.46	3.038	10.77	10.79
+TCGA-OL-A66N-01	TCGA-OL-A66N-01	Primary Tumor	Infiltrating Lobular Carcinoma						10.01	7.196	11.42	9.818	3.042	10.25	9.963
+TCGA-LL-A440-01	TCGA-LL-A440-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.915	8.692	10.56	11.25	4.625	12.25	12.32
+TCGA-A2-A0CO-01	TCGA-A2-A0CO-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.909	8.032	10.68	11.25	4.609	10.96	10.86
+TCGA-AC-A3BB-01	TCGA-AC-A3BB-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.752	7.586	10.64	10.88	4.361	11.28	11.05
+TCGA-C8-A8HR-01	TCGA-C8-A8HR-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.657	8.65	10.61	11.27	3.074	11.77	11.36
+TCGA-AC-A5XS-01	TCGA-AC-A5XS-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.613	4.852	10.91	10.21	1.921	10.32	9.474
+TCGA-XX-A89A-01	TCGA-XX-A89A-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.595	6.969	10.7	11.2	4.622	12.47	12
+TCGA-A7-A425-01	TCGA-A7-A425-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.581	7.259	10.66	9.564	3.836	10.88	10.57
+TCGA-LD-A66U-01	TCGA-LD-A66U-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.574	7.84	10.47	10.16	3.208	10.63	10.23
+TCGA-AC-A6IV-01	TCGA-AC-A6IV-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.57	6.446	10.65	11.25	4.239	11.75	11.33
+TCGA-AC-A3W6-01	TCGA-AC-A3W6-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.512	7.643	10.53	10.99	4.37	11.86	11.15
+TCGA-BH-A8FY-01	TCGA-BH-A8FY-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.491	3.038	9.998	8.588	5.052	10.14	10.04
+TCGA-BH-A8G0-01	TCGA-BH-A8G0-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.451	6.957	10.43	10.92	4.435	11.78	11.13
+TCGA-LL-A50Y-01	TCGA-LL-A50Y-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.418	4.543	10.4	8.84	2.015	9.734	8.98
+TCGA-A7-A4SC-01	TCGA-A7-A4SC-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.416	6.506	10.79	10.31	3.508	11.8	11.45
+TCGA-BH-A28O-01	TCGA-BH-A28O-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.409	6.909	10.71	10.54	4.659	11.99	11.37
+TCGA-AC-A3QQ-01	TCGA-AC-A3QQ-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.399	5.372	9.926	9.027	2.457	10.21	9.476
+TCGA-AC-A62Y-01	TCGA-AC-A62Y-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.363	9.955	10.82	10.23	4.774	10.13	9.65
+TCGA-E9-A6HE-01	TCGA-E9-A6HE-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.363	6.322	10.61	9.521	4.717	10.06	9.763
+TCGA-AQ-A7U7-01	TCGA-AQ-A7U7-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.356	9.734	10.55	11.94	4.359	11.52	11.23
+TCGA-E2-A3DX-01	TCGA-E2-A3DX-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.35	7.474	10.83	11.31	4.471	12.2	12.25
+TCGA-LL-A5YL-01	TCGA-LL-A5YL-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.35	6.493	10.32	9.703	5.285	10.47	9.188
+TCGA-PE-A5DE-01	TCGA-PE-A5DE-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.321	9.423	10.73	11.52	4.509	10.18	9.291
+TCGA-E9-A3Q9-01	TCGA-E9-A3Q9-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.309	3.53	10.99	10.32	3.67	10.14	9.208
+TCGA-D8-A73U-01	TCGA-D8-A73U-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.298	6.891	10.71	11.85	4.427	11.54	11.08
+TCGA-A7-A3J1-01	TCGA-A7-A3J1-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.289	8.16	10.74	11.22	3.857	11.18	11.42
+TCGA-XX-A899-01	TCGA-XX-A899-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.269	8.522	10.73	11.18	3.212	11.64	11.37
+TCGA-AR-A2LN-01	TCGA-AR-A2LN-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.262	7.318	11.33	10.83	3.6	12.32	11.52
+TCGA-AR-A2LQ-01	TCGA-AR-A2LQ-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.256	8.35	10.74	11.18	3.719	12.95	12.75
+TCGA-AR-A2LH-01	TCGA-AR-A2LH-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.246	5.299	10.7	10.91	3.387	10.37	10.78
+TCGA-Z7-A8R5-01	TCGA-Z7-A8R5-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.235	6.135	10.33	10.07	4.098	9.952	10.27
+TCGA-GM-A3XN-01	TCGA-GM-A3XN-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.213	9.159	10.99	10.75	3.403	11.95	11.21
+TCGA-5L-AAT1-01	TCGA-5L-AAT1-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.193	7.108	10.99	10.67	2.911	10.52	11.05
+TCGA-AC-A3TM-01	TCGA-AC-A3TM-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.148	7.606	10.07	9.228	3.914	9.992	9.948
+TCGA-A7-A426-01	TCGA-A7-A426-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.101	10.63	10.39	10.02	4.482	11.02	10.67
+TCGA-EW-A3E8-01	TCGA-EW-A3E8-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.055	5.981	10.32	10.78	4.317	10.27	9.628
+TCGA-OK-A5Q2-01	TCGA-OK-A5Q2-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.045	6.282	10.64	10.32	4.479	10.54	10.01
+TCGA-D8-A4Z1-01	TCGA-D8-A4Z1-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.031	5.779	10.69	10.18	4.56	11.2	10.63
+TCGA-A2-A4RY-01	TCGA-A2-A4RY-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.011	8.216	10.61	10.53	4.023	11.18	11.17
+TCGA-W8-A86G-01	TCGA-W8-A86G-01	Primary Tumor	Infiltrating Lobular Carcinoma						9.008	6.377	10.73	9.243	4.42	10.94	10.1
+TCGA-A2-A4S2-01	TCGA-A2-A4S2-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.996	9.155	10.76	10.66	4.371	10.03	10.12
+TCGA-OL-A66J-01	TCGA-OL-A66J-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.971	6.1	11.08	9.697	1.889	10.76	10.5
+TCGA-AC-A6IX-01	TCGA-AC-A6IX-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.933	7.098	10.82	10.51	2.61	11.28	10.81
+TCGA-BH-A2L8-01	TCGA-BH-A2L8-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.908	7.413	10.22	11.09	2.899	11.01	10.83
+TCGA-HN-A2NL-01	TCGA-HN-A2NL-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.893	5.291	10.37	9.751	4.888	11.43	10.69
+TCGA-AR-A5QM-01	TCGA-AR-A5QM-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.883	8.803	11.01	10.23	4.127	10.94	10.89
+TCGA-AR-A5QP-01	TCGA-AR-A5QP-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.865	7.093	11.19	9.94	4.22	11.3	11.1
+TCGA-AC-A3HN-01	TCGA-AC-A3HN-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.859	7.217	10.94	10.98	3.77	12.08	11.64
+TCGA-AC-A2FB-01	TCGA-AC-A2FB-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.826	5.585	11.17	11.55	3.901	10.36	10.71
+TCGA-MS-A51U-01	TCGA-MS-A51U-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.813	9.011	11	10.59	4.228	11.86	11.65
+TCGA-AC-A2QI-01	TCGA-AC-A2QI-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.702	7.019	11.06	10.48	3.708	11.57	11.66
+TCGA-AC-A2FK-01	TCGA-AC-A2FK-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.674	9.522	11.08	10.28	5.193	10.82	11.08
+TCGA-EW-A423-01	TCGA-EW-A423-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.599	4.838	11.01	9.82	2.486	10.32	9.116
+TCGA-AC-A23G-01	TCGA-AC-A23G-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.59	9.466	11	10.88	3.816	12.56	12.17
+TCGA-AR-A5QN-01	TCGA-AR-A5QN-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.583	6.21	10.99	9.946	4.821	10.99	10.79
+TCGA-AC-A3W7-01	TCGA-AC-A3W7-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.5	8.223	10.6	9.783	5.184	12.05	10.91
+TCGA-AC-A3YI-01	TCGA-AC-A3YI-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.454	6.812	10.69	10.18	3.241	12.29	11.54
+TCGA-AC-A3OD-01	TCGA-AC-A3OD-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.454	5.69	10.75	11.08	4.46	10.98	10.41
+TCGA-AC-A2FO-01	TCGA-AC-A2FO-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.445	7.187	11.08	11.16	3.065	11.17	11.33
+TCGA-E2-A14U-01	TCGA-E2-A14U-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.439	4.748	10.56	8.31	4.472	10.14	10.3
+TCGA-GM-A3XG-01	TCGA-GM-A3XG-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.427	8.527	10.55	8.727	4.641	10.21	10.18
+TCGA-AR-A2LO-01	TCGA-AR-A2LO-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.418	5.464	11.24	11.1	4.738	11.51	11.63
+TCGA-A2-A4RW-01	TCGA-A2-A4RW-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.402	8.009	11.01	10.55	3.712	11.45	11.97
+TCGA-AC-A3EH-01	TCGA-AC-A3EH-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.401	7.067	11.11	9.491	3.369	11.02	11.12
+TCGA-BH-A8FZ-01	TCGA-BH-A8FZ-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.399	7.16	10.57	11.1	3.674	11.32	10.52
+TCGA-5L-AAT0-01	TCGA-5L-AAT0-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.387	6.767	10.33	10.62	4.505	12.12	11.48
+TCGA-AC-A2FG-01	TCGA-AC-A2FG-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.372	5.651	10.82	9.812	4.219	11	10.8
+TCGA-A7-A5ZX-01	TCGA-A7-A5ZX-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.368	6.878	10.84	10.19	3.817	11.44	10.86
+TCGA-GM-A5PV-01	TCGA-GM-A5PV-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.333	2.952	10.49	9.095	4.005	9.439	9.172
+TCGA-BH-A42T-01	TCGA-BH-A42T-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.318	4.523	9.688	9.35	2.944	10.63	10.39
+TCGA-OL-A66K-01	TCGA-OL-A66K-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.296	8.048	11.53	9.858	4.547	11.45	10.28
+TCGA-BH-AB28-01	TCGA-BH-AB28-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.296	5.755	11.07	10.1	4.707	11.21	10.44
+TCGA-PE-A5DD-01	TCGA-PE-A5DD-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.279	7.963	10.23	10.05	5.331	11.45	10.37
+TCGA-PE-A5DC-01	TCGA-PE-A5DC-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.26	4.114	10.72	9.121	4.489	10.15	9.661
+TCGA-GM-A5PX-01	TCGA-GM-A5PX-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.249	7.553	10.96	10.22	4.36	11.12	10.23
+TCGA-A2-A3KC-01	TCGA-A2-A3KC-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.208	6.453	11.05	10.89	4.712	11.94	11.53
+TCGA-D8-A3Z5-01	TCGA-D8-A3Z5-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.208	4.869	10.74	9.175	5.057	10.92	9.721
+TCGA-B6-A40C-01	TCGA-B6-A40C-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.167	6.927	10.64	10.02	3.906	11.39	10.49
+TCGA-EW-A6SC-01	TCGA-EW-A6SC-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.164	6.458	11.11	10.57	4.01	11.53	11.42
+TCGA-AR-A1AM-01	TCGA-AR-A1AM-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.159	6.775	10.82	10.15	4.018	11.39	10.74
+TCGA-AC-A2FF-01	TCGA-AC-A2FF-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.139	7.758	10.87	11.31	3.277	11.84	11.71
+TCGA-D8-A3Z6-01	TCGA-D8-A3Z6-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.125	6.941	11.01	9.717	2.716	11.41	10.56
+TCGA-OL-A6VQ-01	TCGA-OL-A6VQ-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.123	8.876	11.02	10.39	4.336	12.02	11.6
+TCGA-E2-A576-01	TCGA-E2-A576-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.111	4.435	10.33	8.958	0.9385	10.52	9.254
+TCGA-4H-AAAK-01	TCGA-4H-AAAK-01	Primary Tumor	Infiltrating Lobular Carcinoma						8.028	7.476	10.92	10.81	3.911	12	11.39
+TCGA-GM-A3NW-01	TCGA-GM-A3NW-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.985	6.686	10.38	9.213	4.17	10.4	10.27
+TCGA-E2-A2P6-01	TCGA-E2-A2P6-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.918	4.036	10.57	9.786	4.096	10.71	9.02
+TCGA-AC-A3TN-01	TCGA-AC-A3TN-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.901	5.658	10.24	8.427	1.322	10.28	9.517
+TCGA-LL-A9Q3-01	TCGA-LL-A9Q3-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.845	5.244	10.68	9.718	1.819	10.16	9.515
+TCGA-3C-AAAU-01	TCGA-3C-AAAU-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.836	8.243	10.91	8.718	3.852	11.15	10.51
+TCGA-E9-A295-01	TCGA-E9-A295-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.827	6.738	10.59	10.1	4.759	11.33	10.58
+TCGA-EW-A424-01	TCGA-EW-A424-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.822	6.121	10.81	9.633	3.642	11.17	10.63
+TCGA-C8-A3M8-01	TCGA-C8-A3M8-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.802	5.812	11.45	9.479	2.78	11.44	10.3
+TCGA-AC-A4ZE-01	TCGA-AC-A4ZE-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.794	5.627	10.8	9.38	5.196	9.849	9.584
+TCGA-E9-A3HO-01	TCGA-E9-A3HO-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.761	8.241	10.1	9.854	5.181	9.995	8.949
+TCGA-Z7-A8R6-01	TCGA-Z7-A8R6-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.672	10.06	10.25	9.212	2.372	10.38	10.24
+TCGA-AR-A2LM-01	TCGA-AR-A2LM-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.657	8.804	11.35	10.91	3.936	12.41	11.79
+TCGA-OL-A5DA-01	TCGA-OL-A5DA-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.637	5.668	10.7	9.547	3.011	10.54	10.56
+TCGA-B6-A40B-01	TCGA-B6-A40B-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.516	6.373	10.66	9.367	4.266	11.56	10.63
+TCGA-JL-A3YX-01	TCGA-JL-A3YX-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.482	7.183	10.46	8.691	3.527	10.07	9.89
+TCGA-WT-AB44-01	TCGA-WT-AB44-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.364	5.709	10.42	9.815	3.058	11.24	10.37
+TCGA-GM-A3NY-01	TCGA-GM-A3NY-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.36	10.1	10.58	9.877	4.929	11.54	10.21
+TCGA-AR-A2LL-01	TCGA-AR-A2LL-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.304	5.171	10.77	9.901	4.108	10.03	10.18
+TCGA-AR-A2LE-01	TCGA-AR-A2LE-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.192	5.855	11.53	9.67	2.997	11.17	10.15
+TCGA-A7-A4SB-01	TCGA-A7-A4SB-01	Primary Tumor	Infiltrating Lobular Carcinoma						7.157	5.403	11.2	9.378	3.885	10.56	10.11
+TCGA-AR-A2LK-01	TCGA-AR-A2LK-01	Primary Tumor	Infiltrating Lobular Carcinoma						6.847	7.212	10.88	10.08	2.997	11.09	10.87
+TCGA-E9-A54Y-01	TCGA-E9-A54Y-01	Primary Tumor	Infiltrating Lobular Carcinoma						6.797	6.693	10.23	8.186	0	7.727	8.221
+TCGA-LL-A6FP-01	TCGA-LL-A6FP-01	Primary Tumor	Infiltrating Lobular Carcinoma						6.689	2.595	11.11	6.861	2.747	9.095	7.802
+TCGA-A7-A3IZ-01	TCGA-A7-A3IZ-01	Primary Tumor	Infiltrating Lobular Carcinoma						6.294	4.413	10.08	8.955	4.794	10.51	10.47
+TCGA-BH-A0B2-01	TCGA-BH-A0B2-01	Primary Tumor		Positive	Positive	Negative	N0	T1	9.369	7.501	10.52	11.32	3.922	10.62	10.95
+TCGA-BH-A0WA-01	TCGA-BH-A0WA-01	Primary Tumor		Negative	Negative	Negative	N0	T1	8.537	5.051	10.5	10.18	5.109	11.67	11.52
+TCGA-E2-A1IP-01	TCGA-E2-A1IP-01	Primary Tumor		Negative	Positive	Negative	N1	T2	8.958	3.602	10.4	10.92	3.929	10.62	11.02
+TCGA-AN-A0FE-01	TCGA-AN-A0FE-01	Primary Tumor													
+TCGA-AN-A0FG-01	TCGA-AN-A0FG-01	Primary Tumor													
