@@ -1,0 +1,770 @@
+sample_type,histological_type,Tumor_nature2012,Node_nature2012,SH3PXD2A,SH3PXD2B,group
+Primary Tumor,Mucinous Carcinoma,T4,N1,11.06,9.609,Lum_A
+Primary Tumor,Mucinous Carcinoma,T2,N1,10.07,10.24,Lum_A
+Primary Tumor,Mucinous Carcinoma,T2,N0,9.012,9.511,Lum_A
+Primary Tumor,Mucinous Carcinoma,T2,N0,10.43,9.635,Lum_A
+Primary Tumor,Mixed Histology (please specify),T3,N2,11.96,11.77,Lum_A
+Primary Tumor,Mixed Histology (please specify),T3,N2,10.44,10.43,Lum_A
+Primary Tumor,Mixed Histology (please specify),T2,N2,11.78,10.64,Lum_A
+Primary Tumor,Mixed Histology (please specify),T2,N2,11.63,10.9,Lum_A
+Primary Tumor,Mixed Histology (please specify),T3,N3,10.95,10.72,Lum_A
+Primary Tumor,Mixed Histology (please specify),T2,N1,11.66,11.19,Lum_A
+Primary Tumor,Mixed Histology (please specify),T1,N1,12.36,11.93,Lum_A
+Primary Tumor,Mixed Histology (please specify),T2,N0,10.45,9.644,Lum_A
+Primary Tumor,Mixed Histology (please specify),T2,N0,11.22,11.55,Lum_A
+Primary Tumor,Mixed Histology (please specify),T2,N0,10.94,10.67,Lum_A
+Primary Tumor,Mixed Histology (please specify),T2,N0,11.32,10.57,Lum_A
+Primary Tumor,Mixed Histology (please specify),T1,N0,11.69,11.47,Lum_A
+Primary Tumor,Mixed Histology (please specify),T1,N0,11.93,11.81,Lum_A
+Primary Tumor,"Other, specify",T2,N2,10.8,11.05,Lum_A
+Primary Tumor,"Other, specify",T4,N1,10.69,9.21,Lum_A
+Primary Tumor,"Other, specify",T3,N1,8.166,8.916,Lum_A
+Primary Tumor,"Other, specify",T2,N1,11.04,10.54,Lum_A
+Primary Tumor,"Other, specify",T2,N1,11.38,11.25,Lum_A
+Primary Tumor,"Other, specify",T2,N1,11.35,10.89,Lum_A
+Primary Tumor,"Other, specify",T2,N1,10.51,9.811,Lum_A
+Primary Tumor,"Other, specify",T1,N1,12.47,11.61,Lum_A
+Primary Tumor,"Other, specify",T3,N0,11.87,11.38,Lum_A
+Primary Tumor,"Other, specify",T2,N0,10.98,9.432,Lum_A
+Primary Tumor,"Other, specify",T2,N0,8.809,9.924,Lum_A
+Primary Tumor,"Other, specify",T2,N0,11.9,10.11,Lum_A
+Primary Tumor,"Other, specify",T2,N0,10.85,10.94,Lum_A
+Primary Tumor,"Other, specify",T2,N0,9.927,9.015,Lum_A
+Primary Tumor,"Other, specify",T2,N0,9.035,9.16,Lum_A
+Primary Tumor,"Other, specify",T2,N0,8.715,9.385,Lum_A
+Primary Tumor,"Other, specify",T1,N0,10.22,9.652,Lum_A
+Primary Tumor,"Other, specify",T1,N0,10.18,9.861,Lum_A
+Primary Tumor,"Other, specify",T1,N0,9.34,9.296,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N2,10.61,11.44,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N2,10.92,10.58,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N2,10.2,10.61,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N2,11.12,11.17,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N2,9.813,9.924,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N2,10.48,10,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N2,9.902,9.581,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N2,11.32,10.97,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N2,10.03,10.1,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.11,10.8,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,9.955,9.601,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,12.27,11.87,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.7,10.62,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.81,11.02,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.88,11.46,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.28,10.5,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.68,11.91,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.48,10.05,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,9.021,8.021,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.76,10.73,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.74,11.72,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.03,10.86,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.75,10.5,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.35,9.938,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.39,11.41,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,9.815,9.15,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.23,10.04,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,9.866,9.854,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,11.59,12.13,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,11.04,10.71,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,10.71,9.715,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,12.23,11.43,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,11.56,10.97,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,12.19,11.56,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,12.08,11.23,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N3,12.26,12.27,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N3,9.92,10.79,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N3,12.53,11.3,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N3,10,11.03,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N3,9.174,10.08,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N3,10.33,10.4,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,10.66,11.05,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,11.34,11.33,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,10.11,9.806,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,10.68,10.18,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,10.61,10.02,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,11.29,10.94,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,11.81,11.06,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N1,9.806,9.957,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N1,9.505,9.447,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N1,11.76,11.38,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N1,11.1,11.15,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,10.6,10.44,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,12.69,12.41,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,9.888,9.917,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,11.95,10.56,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,9.031,8.992,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,10.87,10.98,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,9.047,10.01,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,9.456,11.13,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,11.49,11.15,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,10.1,9.948,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,10.98,10.34,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,10.43,9.826,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,8.68,9.384,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.19,9.989,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.46,10.03,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,9.259,10.82,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,9.835,9.497,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.2,10.98,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.41,12.4,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.61,10.29,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.45,8.916,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.44,11.11,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.65,11.44,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.26,10.41,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.28,10.55,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.55,10.82,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.68,11.58,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.99,10.69,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.93,11.35,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.74,9.559,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.76,11.38,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.97,11.65,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.24,11.67,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.27,10.66,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.69,11.56,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.07,10.8,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.96,10.19,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.96,11.03,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.57,10.6,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.74,11.27,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.74,8.94,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.65,11.62,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.74,10.28,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.07,11.5,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.43,9.969,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.22,10.81,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.85,10.4,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.35,9.847,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.35,9.665,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.85,10.9,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.17,10.35,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.95,10.32,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.5,9.414,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,8.654,11.45,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.06,10.47,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.15,10.96,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.47,10.66,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.21,11.32,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.96,11.79,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.3,11.07,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.26,10.56,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.8,10.93,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.97,10.92,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.12,10.21,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.74,11.17,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.69,10.33,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.66,8.748,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.02,10.49,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.38,10.33,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.28,10.17,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.91,9.979,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.16,10.05,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.64,11.04,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.76,11.69,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.29,9.71,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,9.886,9.356,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.34,10.74,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.31,10.64,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.8,11.09,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10,9.686,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.15,9.786,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.63,9.447,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.97,11.64,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.43,10.98,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.32,10.78,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.93,10.36,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.31,9.85,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,12.19,11.54,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,12.21,11.7,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,12.11,11.31,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.96,10.99,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.43,11.13,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,9.032,9.633,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.97,10.37,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.73,10.1,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.43,11.15,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.01,11.14,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.95,11.27,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.97,11.31,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.47,11.55,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,12.32,12.36,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.4,11.01,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,9.586,9.556,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.28,10.96,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.31,9.502,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.44,10.56,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.39,9.818,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.73,10.54,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.23,9.998,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,TX,N0,10.64,9.83,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N0,10.12,9.845,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,10.18,11.49,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,9.976,9.505,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,9.298,10.04,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.17,8.587,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.02,10.55,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.838,10.2,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.9,9.924,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.21,12.45,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.69,10.67,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.44,12.01,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.34,10.4,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.46,11.34,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.29,10.24,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.86,11.41,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.79,10.07,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.29,10.83,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.64,12.03,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.03,10.57,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.43,11.5,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.09,11.32,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.77,11.58,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.05,11.02,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11,10.52,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.67,10.32,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.86,12.08,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.65,11.8,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.49,10.95,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.37,10.81,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.64,10.15,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.22,11.34,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.05,11.52,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,8.385,8.158,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.9,10.24,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.31,10.8,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.17,10.95,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.74,10.07,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.87,10.36,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.45,11.61,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.82,11.34,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.87,10.23,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.04,10.6,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.64,10.62,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.63,11.51,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11,10.77,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.63,10.87,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.12,9.961,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.35,9.452,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.04,9.748,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.16,11.29,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.19,10.28,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.76,11.44,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.965,9.178,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.22,10.49,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.46,11.51,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.41,11.22,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.27,10.62,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.56,10.72,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.856,10.19,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.08,11.1,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.326,10.58,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.32,10.32,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.01,9.762,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.07,10.48,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.83,10.22,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.2,10.84,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.46,10.13,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.28,9.923,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.4,10.28,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.692,9.13,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.632,9.361,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.23,10.41,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.65,10.61,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.45,11.71,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.56,12.32,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.56,11.25,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.51,10.68,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.01,11.11,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.4,9.815,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.31,11.65,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.92,10.34,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.3,11.38,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.86,11.45,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.41,9.526,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.83,11.42,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.34,10.44,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.81,10.8,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.38,11.16,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.73,10.76,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.19,11.27,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11,10.48,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.5,11.24,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.14,11.22,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.15,10.2,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.17,10.61,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.99,11.57,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.08,9.808,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.834,10.05,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.1,10.33,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.05,11.17,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.01,11.55,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.53,12.31,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.18,12.02,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.11,11.39,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.52,11.49,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.72,10.76,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.178,9.593,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.09,10.65,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.237,8.673,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.3,10.38,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.15,11.51,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.05,10.05,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.2,11.21,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10,9.971,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.23,11.06,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.56,10.61,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.38,11.14,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.17,10.27,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.1,11.7,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11,10.36,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.29,11.02,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.66,10.93,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.88,10.74,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12,11.85,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.86,10.67,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.21,9.821,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.63,10.88,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.72,11.21,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.72,10.76,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.41,10.48,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.83,10.7,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.23,10.89,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.4,10.56,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.45,9.017,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.07,11.51,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.57,9.874,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.47,11.49,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.28,9.969,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.654,9.482,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.83,11.18,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.54,10.36,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.38,11.38,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.71,10.44,Lum_A
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.68,10.64,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N2,11.47,11.96,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N2,11.24,11.46,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N2,12.1,11.65,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N2,11.81,12.06,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N3,12.36,12.08,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N3,9.964,8.418,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N3,11.29,11.19,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N3,10.91,9.739,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N3,10.9,9.628,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N1,11.02,11.82,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N1,11.83,11.35,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N1,11.74,10.7,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N1,11.36,11.04,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N1,11.19,10.81,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N1,11.75,11.3,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N1,12.32,11.44,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N1,11.16,10.36,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N1,11.65,11.34,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N1,11.82,11.17,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,10.77,10.09,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,12.39,11.54,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,11.02,11.97,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,12.33,11.53,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,10.35,9.808,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,11.41,11.28,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,10.61,10.88,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,11.27,10.98,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,10.01,10.51,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,12.15,11.6,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.95,10.87,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.41,11.14,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,10.47,10.36,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.29,11.51,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.67,11.6,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,10.94,10.62,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.2,10.77,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.74,10.98,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.41,11.05,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,12.16,11.42,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.39,10.73,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.54,10.8,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,12.22,11.02,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,9.481,8.549,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.46,11.04,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,10.29,10.05,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N0,11.34,10.69,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N0,12.34,11.73,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N0,11.83,11.27,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N0,11.81,10.99,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N0,10.62,10.34,Lum_A
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N0,11.04,10.64,Lum_A
+Primary Tumor,NA,T1,N0,10.62,10.95,Lum_A
+Primary Tumor,Mixed Histology (please specify),T2,N0,11.63,11.14,LumB_Her-
+Primary Tumor,Mixed Histology (please specify),T2,N0,10.8,10.5,LumB_Her-
+Primary Tumor,Mixed Histology (please specify),T1,N0,11.69,11.48,LumB_Her-
+Primary Tumor,Mixed Histology (please specify),T1,N0,10.92,10.17,LumB_Her-
+Primary Tumor,"Other, specify",T4,N1,12.76,12.16,LumB_Her-
+Primary Tumor,"Other, specify",T2,N0,11,11.16,LumB_Her-
+Primary Tumor,"Other, specify",T1,N0,13.3,12.12,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N2,9.908,10.25,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N2,11.07,11.27,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N2,10.88,10.2,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.54,11.27,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.88,11.01,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.31,10.12,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.32,11.07,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.98,12.33,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.8,10.15,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,9.069,10.28,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.44,11,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,11.21,9.671,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N3,11.16,10.55,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,10.77,11.1,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N1,11.86,10.34,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.74,12.85,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.21,10.23,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.53,10.2,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.3,10.23,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.26,9.73,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.14,10.63,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,13.4,11.93,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.15,10.42,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.4,11.64,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.35,9.752,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N0,8.889,10.01,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,11.7,11.66,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.8,10.75,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.648,10.45,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.88,11.12,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.72,11.8,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.61,10.61,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.38,9.595,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.13,10.07,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.94,10.55,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.97,10.02,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.07,9.665,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.699,8.698,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.83,11.18,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.87,9.367,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.32,10.32,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.762,9.58,LumB_Her-
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.502,9.502,LumB_Her-
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N2,10.62,9.64,LumB_Her-
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N2,10.86,10.54,LumB_Her-
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N3,10.68,9.558,LumB_Her-
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N0,9.056,9.304,LumB_Her-
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.54,11.5,LumB_Her-
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N0,11.41,11.46,LumB_Her-
+Primary Tumor,NA,T2,N1,10.62,11.02,LumB_Her-
+Primary Tumor,Mucinous Carcinoma,T4,N0,11.07,10.3,LumB_Her+
+Primary Tumor,"Other, specify",T2,N3,11.4,10.43,LumB_Her+
+Primary Tumor,"Other, specify",T3,N1,10.63,10.28,LumB_Her+
+Primary Tumor,"Other, specify",T3,N1,11.53,10.66,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,9.513,9.406,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.58,11.29,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.44,10.31,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.3,10.6,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.91,11.07,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.89,11.09,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.03,10.57,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,9.829,9.04,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N3,10.93,9.537,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,11.32,10.04,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,10.47,10.17,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,11.03,10.68,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N1,12.02,11.16,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,11.41,11.49,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.47,12.64,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.79,11.73,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.31,10.7,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.75,10.45,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.99,10.87,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.22,11.32,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.02,11.38,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.28,11.68,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.08,10.74,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.81,9.757,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.87,11.13,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.51,10.41,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.25,11.89,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,9.633,10.18,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.66,10.65,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.09,11.13,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,9.312,9.612,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.89,10.97,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,12.38,11.55,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.75,11.27,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.88,10.98,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,9.927,10.02,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,9.819,9.766,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.83,11.68,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.34,10.74,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.529,9.277,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.39,11.16,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.82,10.9,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,8.632,8.406,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.02,9.602,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,8.913,9.943,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.78,10.78,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.86,10.59,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.96,11.51,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.31,11.98,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.18,10.6,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.13,10.83,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.24,10.67,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.14,11.02,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N3,10.68,9.761,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,10.49,10.48,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.54,11.55,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.26,10.61,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.68,10.24,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,9.459,11.5,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11,10.18,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.87,10.44,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.65,11.37,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.45,10.68,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.168,9.52,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.58,10.67,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.53,11.04,LumB_Her+
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.77,11.03,LumB_Her+
+Primary Tumor,Infiltrating Lobular Carcinoma,T3,N1,11.05,10.86,LumB_Her+
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N1,11.04,10.55,LumB_Her+
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,10.07,9.693,LumB_Her+
+Primary Tumor,Infiltrating Lobular Carcinoma,T1,N0,10.65,10.17,LumB_Her+
+Primary Tumor,"Other, specify",T2,N1,11.51,11.88,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.8,11.01,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.26,10.68,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,12.04,10.71,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,11.6,12.18,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N3,12.51,11.15,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N3,11.43,11.77,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,10.28,10.85,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N1,10.24,10.03,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.84,11.48,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.24,11.32,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.25,10.86,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.89,11.06,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.46,10.16,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.22,10.84,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.23,12.15,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.24,11.58,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.07,11.04,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.07,10.54,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.94,9.838,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.33,11.31,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.52,10.24,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.84,11.96,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.09,10.98,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.99,12.06,HER2-Enriched
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.38,12.1,HER2-Enriched
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N1,11.25,10.46,HER2-Enriched
+Solid Tissue Normal,Medullary Carcinoma,NA,NA,10.8,10.59,Solid_norm
+Solid Tissue Normal,Medullary Carcinoma,NA,NA,10.97,10.67,Solid_norm
+Solid Tissue Normal,Mucinous Carcinoma,NA,NA,10.65,10.77,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,11.36,10.58,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,11.12,10.83,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,10.89,10.77,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,11.26,11.45,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,12.66,12.59,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,10.89,10.75,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,10.59,10.2,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,11.42,11.17,Solid_norm
+Solid Tissue Normal,Mixed Histology (please specify),NA,NA,11,10.59,Solid_norm
+Solid Tissue Normal,"Other, specify",NA,NA,11.35,11.21,Solid_norm
+Solid Tissue Normal,"Other, specify",NA,NA,11.41,10.84,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.57,8.774,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.57,9.859,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.81,9.697,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.78,11.02,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.95,10.36,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.55,11.54,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.06,10.42,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.82,9.662,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.21,10.34,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.6,11.35,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.76,10.63,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.53,10.26,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.98,11.14,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.4,10.5,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.47,10.37,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.92,10.61,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.54,11.17,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.08,10.05,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.87,10.73,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.67,10.9,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.4,11.01,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.21,10.67,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.07,10.76,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.95,10.76,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.11,11.15,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.74,11.24,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.17,10.35,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.33,10.98,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.92,10.67,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.16,10.66,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.24,10.25,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.18,11.29,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.87,10.52,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.08,10.73,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.3,10.6,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.32,10.63,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.46,11.37,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.02,10.63,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.5,11.92,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.12,11.11,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.57,10.98,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.59,11.1,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.02,10.81,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.5,10.67,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.27,10.88,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.4,11.2,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.85,12.03,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.95,11.56,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.27,10.91,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.98,10.53,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.39,11.48,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.3,11,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.37,10.94,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.28,11.27,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.53,11.28,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.25,10.27,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.49,11.9,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.23,11.35,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.27,11.2,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.89,10.92,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.08,10.77,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.11,10.97,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.67,10.8,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.33,10.31,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.42,10.33,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.62,11.55,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.23,11.5,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.33,11.88,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.38,10.64,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.66,11.85,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.2,11.29,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.38,11.06,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.18,10.91,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.01,11.04,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.58,11.06,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.11,10.56,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.21,11.64,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.96,10.91,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.09,10.72,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.06,11.06,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.45,10.77,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.32,10.93,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.11,10.57,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.51,10.69,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,10.84,10.98,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.32,10.81,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,11.03,10.77,Solid_norm
+Solid Tissue Normal,Infiltrating Ductal Carcinoma,NA,NA,9.919,10.29,Solid_norm
+Solid Tissue Normal,Infiltrating Lobular Carcinoma,NA,NA,11.15,9.516,Solid_norm
+Solid Tissue Normal,Infiltrating Lobular Carcinoma,NA,NA,10.96,11.01,Solid_norm
+Solid Tissue Normal,Infiltrating Lobular Carcinoma,NA,NA,11.13,11.54,Solid_norm
+Solid Tissue Normal,Infiltrating Lobular Carcinoma,NA,NA,11.92,12.24,Solid_norm
+Solid Tissue Normal,Infiltrating Lobular Carcinoma,NA,NA,10.68,10.64,Solid_norm
+Solid Tissue Normal,NA,NA,NA,12.33,12.56,Solid_norm
+Primary Tumor,Medullary Carcinoma,T1,N1,10.6,11.11,Triple_neg
+Primary Tumor,Medullary Carcinoma,T2,N0,11.21,11.59,Triple_neg
+Primary Tumor,Medullary Carcinoma,T2,N0,11.2,11.79,Triple_neg
+Primary Tumor,"Other, specify",T2,N0,10.07,12.31,Triple_neg
+Primary Tumor,"Other, specify",T2,N0,11.38,10.37,Triple_neg
+Primary Tumor,"Other, specify",T2,N0,12.67,11.65,Triple_neg
+Primary Tumor,"Other, specify",T1,N0,10.95,10.79,Triple_neg
+Primary Tumor,"Other, specify",T1,N0,10.82,11.81,Triple_neg
+Primary Tumor,"Other, specify",T1,N0,11.19,11.54,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.58,12,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,10.8,10.65,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.19,12.04,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.48,10.95,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N2,11.5,11.47,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,11.11,10.55,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N2,11.33,11.48,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N3,11.79,10.1,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N3,10.61,11,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,6.718,11.08,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,10.77,10.64,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N1,10.99,11.23,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.64,10.94,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.21,10.85,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10,10.79,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.55,12.23,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.8,11.12,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,12.91,10.88,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.91,10.91,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.51,11.88,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,9.579,11.11,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,8.933,12.23,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.18,11.56,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.45,11.21,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.28,10.88,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.24,11.38,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.17,10.81,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,11.64,11.66,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.22,11.96,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,10.14,11.8,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N1,9.817,11.43,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.06,10.04,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,10.61,10.98,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N1,11.54,9.593,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,TX,N0,10.49,11.59,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T4,N0,11.04,11.75,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,11.14,11.3,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,12.06,11.54,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T3,N0,10.45,11.32,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.24,9.51,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.41,10,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.14,10.37,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.2,10.79,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.37,11.49,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.98,9.676,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.25,11.59,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.49,10.47,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.19,11.7,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.95,11.91,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.48,10.51,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.01,11.64,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.92,11.78,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.97,10.84,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.34,10.94,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.73,11.07,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.83,11.65,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.22,12.15,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.91,10.73,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.58,10.65,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,13.02,11.19,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.128,11.66,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.41,9.549,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.5,11.12,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.99,11.83,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.981,10.09,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.14,11.9,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.18,11.23,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.35,11.27,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.18,10.82,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.14,11.38,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.12,10.91,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.34,10.78,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.44,11.2,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.37,11.66,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.68,11.62,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.27,11.43,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,12.49,11,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.31,11.88,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,9.106,12,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,11.3,11.32,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T2,N0,10.22,10.51,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.21,10.99,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.924,11.22,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.58,10.9,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.22,11.15,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.91,11.84,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.51,11.64,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.1,12.3,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.55,11.23,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.139,10.62,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.87,11.89,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,12.48,12.57,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,10.48,11.51,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.6,10.95,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,9.369,11.15,Triple_neg
+Primary Tumor,Infiltrating Ductal Carcinoma,T1,N0,11.5,12.1,Triple_neg
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N3,10.96,10.12,Triple_neg
+Primary Tumor,Infiltrating Lobular Carcinoma,T2,N0,11.89,11.94,Triple_neg
+Primary Tumor,NA,T1,N0,11.67,11.52,Triple_neg

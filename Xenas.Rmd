@@ -1,0 +1,172 @@
+---
+title: "Xena"
+output: 
+  html_document: 
+    theme: cerulean
+    fig_width: 14
+    fig_height: 10
+    df_print: tibble
+date: "2023-08-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = T)
+```
+
+```{r}
+library(tidyverse)
+library(rstatix)
+library(GGally)
+library(ggsignif)
+```
+Завантажуємо дані.  
+Вони містять опис гістологічного типу пухлити, ER, PR, HER2 статуси, рівень експресії TKS4 та 5, тощо.  
+Вибираємо необхідні.  
+
+```{r}
+Data <- read_tsv('Xena.tsv')
+
+data <- cbind(Data[, 2:9], Data[, 15:16]) |> drop_na(SH3PXD2A, SH3PXD2B)
+```
+
+Розділяємо дані на навколопухлинні тканини (умовну норму) та власне пухлини.  
+
+```{r}
+data |> filter(sample_type=='Solid Tissue Normal') -> Normal
+data |> filter(sample_type=='Primary Tumor') -> Tumor
+
+Normal |> group_by(histological_type) |> summarise(TKS5 = mean(SH3PXD2A), TKS4 = mean(SH3PXD2B), count = length(SH3PXD2B))
+
+Tumor |> group_by(histological_type) |> summarise(TKS5 = mean(SH3PXD2A), TKS4 = mean(SH3PXD2B), count = length(SH3PXD2B))
+```
+
+Порівнюємо експресію TKS5 та 4 в різних гістологічних типах НПТ.  
+
+```{r}
+kruskal.test(SH3PXD2A ~ histological_type, Normal)
+kruskal.test(SH3PXD2B ~ histological_type, Normal)
+```
+
+Порівнюємо експресію TKS5 та 4 в різних гістологічних типах пухлин.
+
+```{r}
+kruskal.test(SH3PXD2A ~ histological_type, Tumor)
+kruskal.test(SH3PXD2B ~ histological_type, Tumor)
+```
+
+```{r}
+Tumor |> wilcox_test(SH3PXD2A ~ histological_type) |> print.data.frame()
+Tumor |> wilcox_test(SH3PXD2B ~ histological_type) |> print.data.frame()
+```
+
+```{r}
+gg <- ggplot(Tumor)+aes(histological_type)+geom_boxplot(aes(y = SH3PXD2A))
+gg
+```
+
+```{r}
+gg <- ggplot(Tumor)+aes(histological_type)+geom_boxplot(aes(y = SH3PXD2B))
+gg
+```
+  
+Перегруповуємо дані по рецепторному статусу.  
+
+```{r}
+data |> filter(ER_Status_nature2012=='Negative', PR_Status_nature2012=='Negative', HER2_Final_Status_nature2012=='Negative') |> select(sample_type, histological_type, Tumor_nature2012, Node_nature2012, SH3PXD2A, SH3PXD2B) |> mutate(group = 'Triple_neg') -> Triple
+```
+
+```{r}
+data |> filter(ER_Status_nature2012=='Negative', PR_Status_nature2012=='Negative', HER2_Final_Status_nature2012=='Positive') |> select(sample_type, histological_type, Tumor_nature2012, Node_nature2012, SH3PXD2A, SH3PXD2B) |> mutate(group = 'HER2-Enriched') -> Enriched
+```
+
+```{r}
+data |> filter(sample_type=='Solid Tissue Normal') |> 
+select(sample_type, histological_type, Tumor_nature2012, Node_nature2012, SH3PXD2A, SH3PXD2B) |> mutate(group = 'Solid_norm') -> Norm
+```
+
+```{r}
+data |> filter(ER_Status_nature2012=='Positive', PR_Status_nature2012=='Positive', HER2_Final_Status_nature2012=='Negative') |> select(sample_type, histological_type, Tumor_nature2012, Node_nature2012, SH3PXD2A, SH3PXD2B) |> mutate(group = 'Lum_A') -> A
+```
+
+```{r}
+data |> filter(ER_Status_nature2012=='Positive',  PR_Status_nature2012=='Negative', HER2_Final_Status_nature2012=='Negative') |> select(sample_type, histological_type, Tumor_nature2012, Node_nature2012, SH3PXD2A, SH3PXD2B) |> mutate(group = 'LumB_Her-') -> Bm
+```
+
+```{r}
+data |> filter(ER_Status_nature2012=='Positive', HER2_Final_Status_nature2012=='Positive') |> select(sample_type, histological_type, Tumor_nature2012, Node_nature2012, SH3PXD2A, SH3PXD2B) |> mutate(group = 'LumB_Her+') -> Bp
+```
+
+```{r}
+dt <- rbind(A, Bm, Bp, Enriched, Norm, Triple) 
+
+#write_csv(dt, 'Tidy_Xena.csv')
+#dt <- read_csv('Tidy_Xena.csv')
+dt |> count(sample_type)
+dt |> count(Tumor_nature2012)
+dt |> count(Node_nature2012)
+dt |> count(group)
+  
+dt |>   group_by(group) |> summarise(TKS5 = mean(SH3PXD2A), count = length(SH3PXD2A), var = var(SH3PXD2A))
+```
+
+```{r}
+ggpairs(dt[,5:6], title = 'Correlation plot on TCGA-BRCA data', 
+        xlab = 'Log(TMP+1)',
+        ylab = 'Log(TMP+1), density')
+```
+
+Перевірка нормальності  
+
+```{r}
+sub <- subset(dt, group == 'A')
+hist(sub$SH3PXD2A)
+hist(sub$SH3PXD2B)
+
+shapiro.test(sub$SH3PXD2A)
+shapiro.test(sub$SH3PXD2B)
+```
+
+Порівняння рівнів експресії TKS5 відповідно до груп за рецепторним статусом.   
+
+```{r}
+kruskal.test(SH3PXD2A ~ group, dt)
+```
+
+Порівняння рівнів експресії TKS4 відповідно до груп за рецепторним статусом.  
+Оцінка впливу зменшення розміру вибірки на значення достовірності.  
+
+```{r}
+kruskal.test(SH3PXD2B ~ group, dt)
+kruskal.test(SH3PXD2B ~ group, sample_n(dt, 100))
+```
+
+```{r}
+dt |> wilcox_test(SH3PXD2B ~ group) |> print.data.frame()
+```
+
+```{r}
+gg <- ggplot(dt, aes(group, y = SH3PXD2B))+
+  geom_boxplot()+
+  ylim(8, 14.65)+
+  geom_signif(data = dt, y_position = c(12.75, 13.25, 13.75, 14.25), 
+              annotations = c("***", '****', '****', '****'),
+              comparisons = list(c('Triple_neg', 'Solid_norm'), 
+                                 c('Triple_neg', 'LumB_Her+'),
+                                 c('Triple_neg', 'LumB_Her-'),
+                                  c('Triple_neg', 'Lum_A')))+
+  labs(title = 'TKS4', x = 'subgroup', y = 'Log(TPM+1)')
+
+gg
+```
+
+ANOVA model.  
+Не коректно але заради ознайомлення.  
+
+```{r}
+summary(aov(SH3PXD2A ~ group*histological_type, dt))
+```
+
+```{r}
+summary(aov(SH3PXD2B ~ group*histological_type, dt))
+```
+
